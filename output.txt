@@ -1,0 +1,2051 @@
+5-bit parallel adder/subtractor
+5-bit adder
+mode=0 cin=0 a= 0 b= 0 sum= 0 v=0
+mode=0 cin=0 a= 0 b= 1 sum= 1 v=0
+mode=0 cin=0 a= 0 b= 2 sum= 2 v=0
+mode=0 cin=0 a= 0 b= 3 sum= 3 v=0
+mode=0 cin=0 a= 0 b= 4 sum= 4 v=0
+mode=0 cin=0 a= 0 b= 5 sum= 5 v=0
+mode=0 cin=0 a= 0 b= 6 sum= 6 v=0
+mode=0 cin=0 a= 0 b= 7 sum= 7 v=0
+mode=0 cin=0 a= 0 b= 8 sum= 8 v=0
+mode=0 cin=0 a= 0 b= 9 sum= 9 v=0
+mode=0 cin=0 a= 0 b=10 sum=10 v=0
+mode=0 cin=0 a= 0 b=11 sum=11 v=0
+mode=0 cin=0 a= 0 b=12 sum=12 v=0
+mode=0 cin=0 a= 0 b=13 sum=13 v=0
+mode=0 cin=0 a= 0 b=14 sum=14 v=0
+mode=0 cin=0 a= 0 b=15 sum=15 v=0
+mode=0 cin=0 a= 0 b=16 sum=16 v=0
+mode=0 cin=0 a= 0 b=17 sum=17 v=0
+mode=0 cin=0 a= 0 b=18 sum=18 v=0
+mode=0 cin=0 a= 0 b=19 sum=19 v=0
+mode=0 cin=0 a= 0 b=20 sum=20 v=0
+mode=0 cin=0 a= 0 b=21 sum=21 v=0
+mode=0 cin=0 a= 0 b=22 sum=22 v=0
+mode=0 cin=0 a= 0 b=23 sum=23 v=0
+mode=0 cin=0 a= 0 b=24 sum=24 v=0
+mode=0 cin=0 a= 0 b=25 sum=25 v=0
+mode=0 cin=0 a= 0 b=26 sum=26 v=0
+mode=0 cin=0 a= 0 b=27 sum=27 v=0
+mode=0 cin=0 a= 0 b=28 sum=28 v=0
+mode=0 cin=0 a= 0 b=29 sum=29 v=0
+mode=0 cin=0 a= 0 b=30 sum=30 v=0
+mode=0 cin=0 a= 0 b=31 sum=31 v=0
+mode=0 cin=0 a= 1 b= 0 sum= 1 v=0
+mode=0 cin=0 a= 1 b= 1 sum= 2 v=0
+mode=0 cin=0 a= 1 b= 2 sum= 3 v=0
+mode=0 cin=0 a= 1 b= 3 sum= 4 v=0
+mode=0 cin=0 a= 1 b= 4 sum= 5 v=0
+mode=0 cin=0 a= 1 b= 5 sum= 6 v=0
+mode=0 cin=0 a= 1 b= 6 sum= 7 v=0
+mode=0 cin=0 a= 1 b= 7 sum= 8 v=0
+mode=0 cin=0 a= 1 b= 8 sum= 9 v=0
+mode=0 cin=0 a= 1 b= 9 sum=10 v=0
+mode=0 cin=0 a= 1 b=10 sum=11 v=0
+mode=0 cin=0 a= 1 b=11 sum=12 v=0
+mode=0 cin=0 a= 1 b=12 sum=13 v=0
+mode=0 cin=0 a= 1 b=13 sum=14 v=0
+mode=0 cin=0 a= 1 b=14 sum=15 v=0
+mode=0 cin=0 a= 1 b=15 sum=16 v=1
+mode=0 cin=0 a= 1 b=16 sum=17 v=0
+mode=0 cin=0 a= 1 b=17 sum=18 v=0
+mode=0 cin=0 a= 1 b=18 sum=19 v=0
+mode=0 cin=0 a= 1 b=19 sum=20 v=0
+mode=0 cin=0 a= 1 b=20 sum=21 v=0
+mode=0 cin=0 a= 1 b=21 sum=22 v=0
+mode=0 cin=0 a= 1 b=22 sum=23 v=0
+mode=0 cin=0 a= 1 b=23 sum=24 v=0
+mode=0 cin=0 a= 1 b=24 sum=25 v=0
+mode=0 cin=0 a= 1 b=25 sum=26 v=0
+mode=0 cin=0 a= 1 b=26 sum=27 v=0
+mode=0 cin=0 a= 1 b=27 sum=28 v=0
+mode=0 cin=0 a= 1 b=28 sum=29 v=0
+mode=0 cin=0 a= 1 b=29 sum=30 v=0
+mode=0 cin=0 a= 1 b=30 sum=31 v=0
+mode=0 cin=0 a= 1 b=31 sum= 0 v=0
+mode=0 cin=0 a= 2 b= 0 sum= 2 v=0
+mode=0 cin=0 a= 2 b= 1 sum= 3 v=0
+mode=0 cin=0 a= 2 b= 2 sum= 4 v=0
+mode=0 cin=0 a= 2 b= 3 sum= 5 v=0
+mode=0 cin=0 a= 2 b= 4 sum= 6 v=0
+mode=0 cin=0 a= 2 b= 5 sum= 7 v=0
+mode=0 cin=0 a= 2 b= 6 sum= 8 v=0
+mode=0 cin=0 a= 2 b= 7 sum= 9 v=0
+mode=0 cin=0 a= 2 b= 8 sum=10 v=0
+mode=0 cin=0 a= 2 b= 9 sum=11 v=0
+mode=0 cin=0 a= 2 b=10 sum=12 v=0
+mode=0 cin=0 a= 2 b=11 sum=13 v=0
+mode=0 cin=0 a= 2 b=12 sum=14 v=0
+mode=0 cin=0 a= 2 b=13 sum=15 v=0
+mode=0 cin=0 a= 2 b=14 sum=16 v=1
+mode=0 cin=0 a= 2 b=15 sum=17 v=1
+mode=0 cin=0 a= 2 b=16 sum=18 v=0
+mode=0 cin=0 a= 2 b=17 sum=19 v=0
+mode=0 cin=0 a= 2 b=18 sum=20 v=0
+mode=0 cin=0 a= 2 b=19 sum=21 v=0
+mode=0 cin=0 a= 2 b=20 sum=22 v=0
+mode=0 cin=0 a= 2 b=21 sum=23 v=0
+mode=0 cin=0 a= 2 b=22 sum=24 v=0
+mode=0 cin=0 a= 2 b=23 sum=25 v=0
+mode=0 cin=0 a= 2 b=24 sum=26 v=0
+mode=0 cin=0 a= 2 b=25 sum=27 v=0
+mode=0 cin=0 a= 2 b=26 sum=28 v=0
+mode=0 cin=0 a= 2 b=27 sum=29 v=0
+mode=0 cin=0 a= 2 b=28 sum=30 v=0
+mode=0 cin=0 a= 2 b=29 sum=31 v=0
+mode=0 cin=0 a= 2 b=30 sum= 0 v=0
+mode=0 cin=0 a= 2 b=31 sum= 1 v=0
+mode=0 cin=0 a= 3 b= 0 sum= 3 v=0
+mode=0 cin=0 a= 3 b= 1 sum= 4 v=0
+mode=0 cin=0 a= 3 b= 2 sum= 5 v=0
+mode=0 cin=0 a= 3 b= 3 sum= 6 v=0
+mode=0 cin=0 a= 3 b= 4 sum= 7 v=0
+mode=0 cin=0 a= 3 b= 5 sum= 8 v=0
+mode=0 cin=0 a= 3 b= 6 sum= 9 v=0
+mode=0 cin=0 a= 3 b= 7 sum=10 v=0
+mode=0 cin=0 a= 3 b= 8 sum=11 v=0
+mode=0 cin=0 a= 3 b= 9 sum=12 v=0
+mode=0 cin=0 a= 3 b=10 sum=13 v=0
+mode=0 cin=0 a= 3 b=11 sum=14 v=0
+mode=0 cin=0 a= 3 b=12 sum=15 v=0
+mode=0 cin=0 a= 3 b=13 sum=16 v=1
+mode=0 cin=0 a= 3 b=14 sum=17 v=1
+mode=0 cin=0 a= 3 b=15 sum=18 v=1
+mode=0 cin=0 a= 3 b=16 sum=19 v=0
+mode=0 cin=0 a= 3 b=17 sum=20 v=0
+mode=0 cin=0 a= 3 b=18 sum=21 v=0
+mode=0 cin=0 a= 3 b=19 sum=22 v=0
+mode=0 cin=0 a= 3 b=20 sum=23 v=0
+mode=0 cin=0 a= 3 b=21 sum=24 v=0
+mode=0 cin=0 a= 3 b=22 sum=25 v=0
+mode=0 cin=0 a= 3 b=23 sum=26 v=0
+mode=0 cin=0 a= 3 b=24 sum=27 v=0
+mode=0 cin=0 a= 3 b=25 sum=28 v=0
+mode=0 cin=0 a= 3 b=26 sum=29 v=0
+mode=0 cin=0 a= 3 b=27 sum=30 v=0
+mode=0 cin=0 a= 3 b=28 sum=31 v=0
+mode=0 cin=0 a= 3 b=29 sum= 0 v=0
+mode=0 cin=0 a= 3 b=30 sum= 1 v=0
+mode=0 cin=0 a= 3 b=31 sum= 2 v=0
+mode=0 cin=0 a= 4 b= 0 sum= 4 v=0
+mode=0 cin=0 a= 4 b= 1 sum= 5 v=0
+mode=0 cin=0 a= 4 b= 2 sum= 6 v=0
+mode=0 cin=0 a= 4 b= 3 sum= 7 v=0
+mode=0 cin=0 a= 4 b= 4 sum= 8 v=0
+mode=0 cin=0 a= 4 b= 5 sum= 9 v=0
+mode=0 cin=0 a= 4 b= 6 sum=10 v=0
+mode=0 cin=0 a= 4 b= 7 sum=11 v=0
+mode=0 cin=0 a= 4 b= 8 sum=12 v=0
+mode=0 cin=0 a= 4 b= 9 sum=13 v=0
+mode=0 cin=0 a= 4 b=10 sum=14 v=0
+mode=0 cin=0 a= 4 b=11 sum=15 v=0
+mode=0 cin=0 a= 4 b=12 sum=16 v=1
+mode=0 cin=0 a= 4 b=13 sum=17 v=1
+mode=0 cin=0 a= 4 b=14 sum=18 v=1
+mode=0 cin=0 a= 4 b=15 sum=19 v=1
+mode=0 cin=0 a= 4 b=16 sum=20 v=0
+mode=0 cin=0 a= 4 b=17 sum=21 v=0
+mode=0 cin=0 a= 4 b=18 sum=22 v=0
+mode=0 cin=0 a= 4 b=19 sum=23 v=0
+mode=0 cin=0 a= 4 b=20 sum=24 v=0
+mode=0 cin=0 a= 4 b=21 sum=25 v=0
+mode=0 cin=0 a= 4 b=22 sum=26 v=0
+mode=0 cin=0 a= 4 b=23 sum=27 v=0
+mode=0 cin=0 a= 4 b=24 sum=28 v=0
+mode=0 cin=0 a= 4 b=25 sum=29 v=0
+mode=0 cin=0 a= 4 b=26 sum=30 v=0
+mode=0 cin=0 a= 4 b=27 sum=31 v=0
+mode=0 cin=0 a= 4 b=28 sum= 0 v=0
+mode=0 cin=0 a= 4 b=29 sum= 1 v=0
+mode=0 cin=0 a= 4 b=30 sum= 2 v=0
+mode=0 cin=0 a= 4 b=31 sum= 3 v=0
+mode=0 cin=0 a= 5 b= 0 sum= 5 v=0
+mode=0 cin=0 a= 5 b= 1 sum= 6 v=0
+mode=0 cin=0 a= 5 b= 2 sum= 7 v=0
+mode=0 cin=0 a= 5 b= 3 sum= 8 v=0
+mode=0 cin=0 a= 5 b= 4 sum= 9 v=0
+mode=0 cin=0 a= 5 b= 5 sum=10 v=0
+mode=0 cin=0 a= 5 b= 6 sum=11 v=0
+mode=0 cin=0 a= 5 b= 7 sum=12 v=0
+mode=0 cin=0 a= 5 b= 8 sum=13 v=0
+mode=0 cin=0 a= 5 b= 9 sum=14 v=0
+mode=0 cin=0 a= 5 b=10 sum=15 v=0
+mode=0 cin=0 a= 5 b=11 sum=16 v=1
+mode=0 cin=0 a= 5 b=12 sum=17 v=1
+mode=0 cin=0 a= 5 b=13 sum=18 v=1
+mode=0 cin=0 a= 5 b=14 sum=19 v=1
+mode=0 cin=0 a= 5 b=15 sum=20 v=1
+mode=0 cin=0 a= 5 b=16 sum=21 v=0
+mode=0 cin=0 a= 5 b=17 sum=22 v=0
+mode=0 cin=0 a= 5 b=18 sum=23 v=0
+mode=0 cin=0 a= 5 b=19 sum=24 v=0
+mode=0 cin=0 a= 5 b=20 sum=25 v=0
+mode=0 cin=0 a= 5 b=21 sum=26 v=0
+mode=0 cin=0 a= 5 b=22 sum=27 v=0
+mode=0 cin=0 a= 5 b=23 sum=28 v=0
+mode=0 cin=0 a= 5 b=24 sum=29 v=0
+mode=0 cin=0 a= 5 b=25 sum=30 v=0
+mode=0 cin=0 a= 5 b=26 sum=31 v=0
+mode=0 cin=0 a= 5 b=27 sum= 0 v=0
+mode=0 cin=0 a= 5 b=28 sum= 1 v=0
+mode=0 cin=0 a= 5 b=29 sum= 2 v=0
+mode=0 cin=0 a= 5 b=30 sum= 3 v=0
+mode=0 cin=0 a= 5 b=31 sum= 4 v=0
+mode=0 cin=0 a= 6 b= 0 sum= 6 v=0
+mode=0 cin=0 a= 6 b= 1 sum= 7 v=0
+mode=0 cin=0 a= 6 b= 2 sum= 8 v=0
+mode=0 cin=0 a= 6 b= 3 sum= 9 v=0
+mode=0 cin=0 a= 6 b= 4 sum=10 v=0
+mode=0 cin=0 a= 6 b= 5 sum=11 v=0
+mode=0 cin=0 a= 6 b= 6 sum=12 v=0
+mode=0 cin=0 a= 6 b= 7 sum=13 v=0
+mode=0 cin=0 a= 6 b= 8 sum=14 v=0
+mode=0 cin=0 a= 6 b= 9 sum=15 v=0
+mode=0 cin=0 a= 6 b=10 sum=16 v=1
+mode=0 cin=0 a= 6 b=11 sum=17 v=1
+mode=0 cin=0 a= 6 b=12 sum=18 v=1
+mode=0 cin=0 a= 6 b=13 sum=19 v=1
+mode=0 cin=0 a= 6 b=14 sum=20 v=1
+mode=0 cin=0 a= 6 b=15 sum=21 v=1
+mode=0 cin=0 a= 6 b=16 sum=22 v=0
+mode=0 cin=0 a= 6 b=17 sum=23 v=0
+mode=0 cin=0 a= 6 b=18 sum=24 v=0
+mode=0 cin=0 a= 6 b=19 sum=25 v=0
+mode=0 cin=0 a= 6 b=20 sum=26 v=0
+mode=0 cin=0 a= 6 b=21 sum=27 v=0
+mode=0 cin=0 a= 6 b=22 sum=28 v=0
+mode=0 cin=0 a= 6 b=23 sum=29 v=0
+mode=0 cin=0 a= 6 b=24 sum=30 v=0
+mode=0 cin=0 a= 6 b=25 sum=31 v=0
+mode=0 cin=0 a= 6 b=26 sum= 0 v=0
+mode=0 cin=0 a= 6 b=27 sum= 1 v=0
+mode=0 cin=0 a= 6 b=28 sum= 2 v=0
+mode=0 cin=0 a= 6 b=29 sum= 3 v=0
+mode=0 cin=0 a= 6 b=30 sum= 4 v=0
+mode=0 cin=0 a= 6 b=31 sum= 5 v=0
+mode=0 cin=0 a= 7 b= 0 sum= 7 v=0
+mode=0 cin=0 a= 7 b= 1 sum= 8 v=0
+mode=0 cin=0 a= 7 b= 2 sum= 9 v=0
+mode=0 cin=0 a= 7 b= 3 sum=10 v=0
+mode=0 cin=0 a= 7 b= 4 sum=11 v=0
+mode=0 cin=0 a= 7 b= 5 sum=12 v=0
+mode=0 cin=0 a= 7 b= 6 sum=13 v=0
+mode=0 cin=0 a= 7 b= 7 sum=14 v=0
+mode=0 cin=0 a= 7 b= 8 sum=15 v=0
+mode=0 cin=0 a= 7 b= 9 sum=16 v=1
+mode=0 cin=0 a= 7 b=10 sum=17 v=1
+mode=0 cin=0 a= 7 b=11 sum=18 v=1
+mode=0 cin=0 a= 7 b=12 sum=19 v=1
+mode=0 cin=0 a= 7 b=13 sum=20 v=1
+mode=0 cin=0 a= 7 b=14 sum=21 v=1
+mode=0 cin=0 a= 7 b=15 sum=22 v=1
+mode=0 cin=0 a= 7 b=16 sum=23 v=0
+mode=0 cin=0 a= 7 b=17 sum=24 v=0
+mode=0 cin=0 a= 7 b=18 sum=25 v=0
+mode=0 cin=0 a= 7 b=19 sum=26 v=0
+mode=0 cin=0 a= 7 b=20 sum=27 v=0
+mode=0 cin=0 a= 7 b=21 sum=28 v=0
+mode=0 cin=0 a= 7 b=22 sum=29 v=0
+mode=0 cin=0 a= 7 b=23 sum=30 v=0
+mode=0 cin=0 a= 7 b=24 sum=31 v=0
+mode=0 cin=0 a= 7 b=25 sum= 0 v=0
+mode=0 cin=0 a= 7 b=26 sum= 1 v=0
+mode=0 cin=0 a= 7 b=27 sum= 2 v=0
+mode=0 cin=0 a= 7 b=28 sum= 3 v=0
+mode=0 cin=0 a= 7 b=29 sum= 4 v=0
+mode=0 cin=0 a= 7 b=30 sum= 5 v=0
+mode=0 cin=0 a= 7 b=31 sum= 6 v=0
+mode=0 cin=0 a= 8 b= 0 sum= 8 v=0
+mode=0 cin=0 a= 8 b= 1 sum= 9 v=0
+mode=0 cin=0 a= 8 b= 2 sum=10 v=0
+mode=0 cin=0 a= 8 b= 3 sum=11 v=0
+mode=0 cin=0 a= 8 b= 4 sum=12 v=0
+mode=0 cin=0 a= 8 b= 5 sum=13 v=0
+mode=0 cin=0 a= 8 b= 6 sum=14 v=0
+mode=0 cin=0 a= 8 b= 7 sum=15 v=0
+mode=0 cin=0 a= 8 b= 8 sum=16 v=1
+mode=0 cin=0 a= 8 b= 9 sum=17 v=1
+mode=0 cin=0 a= 8 b=10 sum=18 v=1
+mode=0 cin=0 a= 8 b=11 sum=19 v=1
+mode=0 cin=0 a= 8 b=12 sum=20 v=1
+mode=0 cin=0 a= 8 b=13 sum=21 v=1
+mode=0 cin=0 a= 8 b=14 sum=22 v=1
+mode=0 cin=0 a= 8 b=15 sum=23 v=1
+mode=0 cin=0 a= 8 b=16 sum=24 v=0
+mode=0 cin=0 a= 8 b=17 sum=25 v=0
+mode=0 cin=0 a= 8 b=18 sum=26 v=0
+mode=0 cin=0 a= 8 b=19 sum=27 v=0
+mode=0 cin=0 a= 8 b=20 sum=28 v=0
+mode=0 cin=0 a= 8 b=21 sum=29 v=0
+mode=0 cin=0 a= 8 b=22 sum=30 v=0
+mode=0 cin=0 a= 8 b=23 sum=31 v=0
+mode=0 cin=0 a= 8 b=24 sum= 0 v=0
+mode=0 cin=0 a= 8 b=25 sum= 1 v=0
+mode=0 cin=0 a= 8 b=26 sum= 2 v=0
+mode=0 cin=0 a= 8 b=27 sum= 3 v=0
+mode=0 cin=0 a= 8 b=28 sum= 4 v=0
+mode=0 cin=0 a= 8 b=29 sum= 5 v=0
+mode=0 cin=0 a= 8 b=30 sum= 6 v=0
+mode=0 cin=0 a= 8 b=31 sum= 7 v=0
+mode=0 cin=0 a= 9 b= 0 sum= 9 v=0
+mode=0 cin=0 a= 9 b= 1 sum=10 v=0
+mode=0 cin=0 a= 9 b= 2 sum=11 v=0
+mode=0 cin=0 a= 9 b= 3 sum=12 v=0
+mode=0 cin=0 a= 9 b= 4 sum=13 v=0
+mode=0 cin=0 a= 9 b= 5 sum=14 v=0
+mode=0 cin=0 a= 9 b= 6 sum=15 v=0
+mode=0 cin=0 a= 9 b= 7 sum=16 v=1
+mode=0 cin=0 a= 9 b= 8 sum=17 v=1
+mode=0 cin=0 a= 9 b= 9 sum=18 v=1
+mode=0 cin=0 a= 9 b=10 sum=19 v=1
+mode=0 cin=0 a= 9 b=11 sum=20 v=1
+mode=0 cin=0 a= 9 b=12 sum=21 v=1
+mode=0 cin=0 a= 9 b=13 sum=22 v=1
+mode=0 cin=0 a= 9 b=14 sum=23 v=1
+mode=0 cin=0 a= 9 b=15 sum=24 v=1
+mode=0 cin=0 a= 9 b=16 sum=25 v=0
+mode=0 cin=0 a= 9 b=17 sum=26 v=0
+mode=0 cin=0 a= 9 b=18 sum=27 v=0
+mode=0 cin=0 a= 9 b=19 sum=28 v=0
+mode=0 cin=0 a= 9 b=20 sum=29 v=0
+mode=0 cin=0 a= 9 b=21 sum=30 v=0
+mode=0 cin=0 a= 9 b=22 sum=31 v=0
+mode=0 cin=0 a= 9 b=23 sum= 0 v=0
+mode=0 cin=0 a= 9 b=24 sum= 1 v=0
+mode=0 cin=0 a= 9 b=25 sum= 2 v=0
+mode=0 cin=0 a= 9 b=26 sum= 3 v=0
+mode=0 cin=0 a= 9 b=27 sum= 4 v=0
+mode=0 cin=0 a= 9 b=28 sum= 5 v=0
+mode=0 cin=0 a= 9 b=29 sum= 6 v=0
+mode=0 cin=0 a= 9 b=30 sum= 7 v=0
+mode=0 cin=0 a= 9 b=31 sum= 8 v=0
+mode=0 cin=0 a=10 b= 0 sum=10 v=0
+mode=0 cin=0 a=10 b= 1 sum=11 v=0
+mode=0 cin=0 a=10 b= 2 sum=12 v=0
+mode=0 cin=0 a=10 b= 3 sum=13 v=0
+mode=0 cin=0 a=10 b= 4 sum=14 v=0
+mode=0 cin=0 a=10 b= 5 sum=15 v=0
+mode=0 cin=0 a=10 b= 6 sum=16 v=1
+mode=0 cin=0 a=10 b= 7 sum=17 v=1
+mode=0 cin=0 a=10 b= 8 sum=18 v=1
+mode=0 cin=0 a=10 b= 9 sum=19 v=1
+mode=0 cin=0 a=10 b=10 sum=20 v=1
+mode=0 cin=0 a=10 b=11 sum=21 v=1
+mode=0 cin=0 a=10 b=12 sum=22 v=1
+mode=0 cin=0 a=10 b=13 sum=23 v=1
+mode=0 cin=0 a=10 b=14 sum=24 v=1
+mode=0 cin=0 a=10 b=15 sum=25 v=1
+mode=0 cin=0 a=10 b=16 sum=26 v=0
+mode=0 cin=0 a=10 b=17 sum=27 v=0
+mode=0 cin=0 a=10 b=18 sum=28 v=0
+mode=0 cin=0 a=10 b=19 sum=29 v=0
+mode=0 cin=0 a=10 b=20 sum=30 v=0
+mode=0 cin=0 a=10 b=21 sum=31 v=0
+mode=0 cin=0 a=10 b=22 sum= 0 v=0
+mode=0 cin=0 a=10 b=23 sum= 1 v=0
+mode=0 cin=0 a=10 b=24 sum= 2 v=0
+mode=0 cin=0 a=10 b=25 sum= 3 v=0
+mode=0 cin=0 a=10 b=26 sum= 4 v=0
+mode=0 cin=0 a=10 b=27 sum= 5 v=0
+mode=0 cin=0 a=10 b=28 sum= 6 v=0
+mode=0 cin=0 a=10 b=29 sum= 7 v=0
+mode=0 cin=0 a=10 b=30 sum= 8 v=0
+mode=0 cin=0 a=10 b=31 sum= 9 v=0
+mode=0 cin=0 a=11 b= 0 sum=11 v=0
+mode=0 cin=0 a=11 b= 1 sum=12 v=0
+mode=0 cin=0 a=11 b= 2 sum=13 v=0
+mode=0 cin=0 a=11 b= 3 sum=14 v=0
+mode=0 cin=0 a=11 b= 4 sum=15 v=0
+mode=0 cin=0 a=11 b= 5 sum=16 v=1
+mode=0 cin=0 a=11 b= 6 sum=17 v=1
+mode=0 cin=0 a=11 b= 7 sum=18 v=1
+mode=0 cin=0 a=11 b= 8 sum=19 v=1
+mode=0 cin=0 a=11 b= 9 sum=20 v=1
+mode=0 cin=0 a=11 b=10 sum=21 v=1
+mode=0 cin=0 a=11 b=11 sum=22 v=1
+mode=0 cin=0 a=11 b=12 sum=23 v=1
+mode=0 cin=0 a=11 b=13 sum=24 v=1
+mode=0 cin=0 a=11 b=14 sum=25 v=1
+mode=0 cin=0 a=11 b=15 sum=26 v=1
+mode=0 cin=0 a=11 b=16 sum=27 v=0
+mode=0 cin=0 a=11 b=17 sum=28 v=0
+mode=0 cin=0 a=11 b=18 sum=29 v=0
+mode=0 cin=0 a=11 b=19 sum=30 v=0
+mode=0 cin=0 a=11 b=20 sum=31 v=0
+mode=0 cin=0 a=11 b=21 sum= 0 v=0
+mode=0 cin=0 a=11 b=22 sum= 1 v=0
+mode=0 cin=0 a=11 b=23 sum= 2 v=0
+mode=0 cin=0 a=11 b=24 sum= 3 v=0
+mode=0 cin=0 a=11 b=25 sum= 4 v=0
+mode=0 cin=0 a=11 b=26 sum= 5 v=0
+mode=0 cin=0 a=11 b=27 sum= 6 v=0
+mode=0 cin=0 a=11 b=28 sum= 7 v=0
+mode=0 cin=0 a=11 b=29 sum= 8 v=0
+mode=0 cin=0 a=11 b=30 sum= 9 v=0
+mode=0 cin=0 a=11 b=31 sum=10 v=0
+mode=0 cin=0 a=12 b= 0 sum=12 v=0
+mode=0 cin=0 a=12 b= 1 sum=13 v=0
+mode=0 cin=0 a=12 b= 2 sum=14 v=0
+mode=0 cin=0 a=12 b= 3 sum=15 v=0
+mode=0 cin=0 a=12 b= 4 sum=16 v=1
+mode=0 cin=0 a=12 b= 5 sum=17 v=1
+mode=0 cin=0 a=12 b= 6 sum=18 v=1
+mode=0 cin=0 a=12 b= 7 sum=19 v=1
+mode=0 cin=0 a=12 b= 8 sum=20 v=1
+mode=0 cin=0 a=12 b= 9 sum=21 v=1
+mode=0 cin=0 a=12 b=10 sum=22 v=1
+mode=0 cin=0 a=12 b=11 sum=23 v=1
+mode=0 cin=0 a=12 b=12 sum=24 v=1
+mode=0 cin=0 a=12 b=13 sum=25 v=1
+mode=0 cin=0 a=12 b=14 sum=26 v=1
+mode=0 cin=0 a=12 b=15 sum=27 v=1
+mode=0 cin=0 a=12 b=16 sum=28 v=0
+mode=0 cin=0 a=12 b=17 sum=29 v=0
+mode=0 cin=0 a=12 b=18 sum=30 v=0
+mode=0 cin=0 a=12 b=19 sum=31 v=0
+mode=0 cin=0 a=12 b=20 sum= 0 v=0
+mode=0 cin=0 a=12 b=21 sum= 1 v=0
+mode=0 cin=0 a=12 b=22 sum= 2 v=0
+mode=0 cin=0 a=12 b=23 sum= 3 v=0
+mode=0 cin=0 a=12 b=24 sum= 4 v=0
+mode=0 cin=0 a=12 b=25 sum= 5 v=0
+mode=0 cin=0 a=12 b=26 sum= 6 v=0
+mode=0 cin=0 a=12 b=27 sum= 7 v=0
+mode=0 cin=0 a=12 b=28 sum= 8 v=0
+mode=0 cin=0 a=12 b=29 sum= 9 v=0
+mode=0 cin=0 a=12 b=30 sum=10 v=0
+mode=0 cin=0 a=12 b=31 sum=11 v=0
+mode=0 cin=0 a=13 b= 0 sum=13 v=0
+mode=0 cin=0 a=13 b= 1 sum=14 v=0
+mode=0 cin=0 a=13 b= 2 sum=15 v=0
+mode=0 cin=0 a=13 b= 3 sum=16 v=1
+mode=0 cin=0 a=13 b= 4 sum=17 v=1
+mode=0 cin=0 a=13 b= 5 sum=18 v=1
+mode=0 cin=0 a=13 b= 6 sum=19 v=1
+mode=0 cin=0 a=13 b= 7 sum=20 v=1
+mode=0 cin=0 a=13 b= 8 sum=21 v=1
+mode=0 cin=0 a=13 b= 9 sum=22 v=1
+mode=0 cin=0 a=13 b=10 sum=23 v=1
+mode=0 cin=0 a=13 b=11 sum=24 v=1
+mode=0 cin=0 a=13 b=12 sum=25 v=1
+mode=0 cin=0 a=13 b=13 sum=26 v=1
+mode=0 cin=0 a=13 b=14 sum=27 v=1
+mode=0 cin=0 a=13 b=15 sum=28 v=1
+mode=0 cin=0 a=13 b=16 sum=29 v=0
+mode=0 cin=0 a=13 b=17 sum=30 v=0
+mode=0 cin=0 a=13 b=18 sum=31 v=0
+mode=0 cin=0 a=13 b=19 sum= 0 v=0
+mode=0 cin=0 a=13 b=20 sum= 1 v=0
+mode=0 cin=0 a=13 b=21 sum= 2 v=0
+mode=0 cin=0 a=13 b=22 sum= 3 v=0
+mode=0 cin=0 a=13 b=23 sum= 4 v=0
+mode=0 cin=0 a=13 b=24 sum= 5 v=0
+mode=0 cin=0 a=13 b=25 sum= 6 v=0
+mode=0 cin=0 a=13 b=26 sum= 7 v=0
+mode=0 cin=0 a=13 b=27 sum= 8 v=0
+mode=0 cin=0 a=13 b=28 sum= 9 v=0
+mode=0 cin=0 a=13 b=29 sum=10 v=0
+mode=0 cin=0 a=13 b=30 sum=11 v=0
+mode=0 cin=0 a=13 b=31 sum=12 v=0
+mode=0 cin=0 a=14 b= 0 sum=14 v=0
+mode=0 cin=0 a=14 b= 1 sum=15 v=0
+mode=0 cin=0 a=14 b= 2 sum=16 v=1
+mode=0 cin=0 a=14 b= 3 sum=17 v=1
+mode=0 cin=0 a=14 b= 4 sum=18 v=1
+mode=0 cin=0 a=14 b= 5 sum=19 v=1
+mode=0 cin=0 a=14 b= 6 sum=20 v=1
+mode=0 cin=0 a=14 b= 7 sum=21 v=1
+mode=0 cin=0 a=14 b= 8 sum=22 v=1
+mode=0 cin=0 a=14 b= 9 sum=23 v=1
+mode=0 cin=0 a=14 b=10 sum=24 v=1
+mode=0 cin=0 a=14 b=11 sum=25 v=1
+mode=0 cin=0 a=14 b=12 sum=26 v=1
+mode=0 cin=0 a=14 b=13 sum=27 v=1
+mode=0 cin=0 a=14 b=14 sum=28 v=1
+mode=0 cin=0 a=14 b=15 sum=29 v=1
+mode=0 cin=0 a=14 b=16 sum=30 v=0
+mode=0 cin=0 a=14 b=17 sum=31 v=0
+mode=0 cin=0 a=14 b=18 sum= 0 v=0
+mode=0 cin=0 a=14 b=19 sum= 1 v=0
+mode=0 cin=0 a=14 b=20 sum= 2 v=0
+mode=0 cin=0 a=14 b=21 sum= 3 v=0
+mode=0 cin=0 a=14 b=22 sum= 4 v=0
+mode=0 cin=0 a=14 b=23 sum= 5 v=0
+mode=0 cin=0 a=14 b=24 sum= 6 v=0
+mode=0 cin=0 a=14 b=25 sum= 7 v=0
+mode=0 cin=0 a=14 b=26 sum= 8 v=0
+mode=0 cin=0 a=14 b=27 sum= 9 v=0
+mode=0 cin=0 a=14 b=28 sum=10 v=0
+mode=0 cin=0 a=14 b=29 sum=11 v=0
+mode=0 cin=0 a=14 b=30 sum=12 v=0
+mode=0 cin=0 a=14 b=31 sum=13 v=0
+mode=0 cin=0 a=15 b= 0 sum=15 v=0
+mode=0 cin=0 a=15 b= 1 sum=16 v=1
+mode=0 cin=0 a=15 b= 2 sum=17 v=1
+mode=0 cin=0 a=15 b= 3 sum=18 v=1
+mode=0 cin=0 a=15 b= 4 sum=19 v=1
+mode=0 cin=0 a=15 b= 5 sum=20 v=1
+mode=0 cin=0 a=15 b= 6 sum=21 v=1
+mode=0 cin=0 a=15 b= 7 sum=22 v=1
+mode=0 cin=0 a=15 b= 8 sum=23 v=1
+mode=0 cin=0 a=15 b= 9 sum=24 v=1
+mode=0 cin=0 a=15 b=10 sum=25 v=1
+mode=0 cin=0 a=15 b=11 sum=26 v=1
+mode=0 cin=0 a=15 b=12 sum=27 v=1
+mode=0 cin=0 a=15 b=13 sum=28 v=1
+mode=0 cin=0 a=15 b=14 sum=29 v=1
+mode=0 cin=0 a=15 b=15 sum=30 v=1
+mode=0 cin=0 a=15 b=16 sum=31 v=0
+mode=0 cin=0 a=15 b=17 sum= 0 v=0
+mode=0 cin=0 a=15 b=18 sum= 1 v=0
+mode=0 cin=0 a=15 b=19 sum= 2 v=0
+mode=0 cin=0 a=15 b=20 sum= 3 v=0
+mode=0 cin=0 a=15 b=21 sum= 4 v=0
+mode=0 cin=0 a=15 b=22 sum= 5 v=0
+mode=0 cin=0 a=15 b=23 sum= 6 v=0
+mode=0 cin=0 a=15 b=24 sum= 7 v=0
+mode=0 cin=0 a=15 b=25 sum= 8 v=0
+mode=0 cin=0 a=15 b=26 sum= 9 v=0
+mode=0 cin=0 a=15 b=27 sum=10 v=0
+mode=0 cin=0 a=15 b=28 sum=11 v=0
+mode=0 cin=0 a=15 b=29 sum=12 v=0
+mode=0 cin=0 a=15 b=30 sum=13 v=0
+mode=0 cin=0 a=15 b=31 sum=14 v=0
+mode=0 cin=0 a=16 b= 0 sum=16 v=0
+mode=0 cin=0 a=16 b= 1 sum=17 v=0
+mode=0 cin=0 a=16 b= 2 sum=18 v=0
+mode=0 cin=0 a=16 b= 3 sum=19 v=0
+mode=0 cin=0 a=16 b= 4 sum=20 v=0
+mode=0 cin=0 a=16 b= 5 sum=21 v=0
+mode=0 cin=0 a=16 b= 6 sum=22 v=0
+mode=0 cin=0 a=16 b= 7 sum=23 v=0
+mode=0 cin=0 a=16 b= 8 sum=24 v=0
+mode=0 cin=0 a=16 b= 9 sum=25 v=0
+mode=0 cin=0 a=16 b=10 sum=26 v=0
+mode=0 cin=0 a=16 b=11 sum=27 v=0
+mode=0 cin=0 a=16 b=12 sum=28 v=0
+mode=0 cin=0 a=16 b=13 sum=29 v=0
+mode=0 cin=0 a=16 b=14 sum=30 v=0
+mode=0 cin=0 a=16 b=15 sum=31 v=0
+mode=0 cin=0 a=16 b=16 sum= 0 v=1
+mode=0 cin=0 a=16 b=17 sum= 1 v=1
+mode=0 cin=0 a=16 b=18 sum= 2 v=1
+mode=0 cin=0 a=16 b=19 sum= 3 v=1
+mode=0 cin=0 a=16 b=20 sum= 4 v=1
+mode=0 cin=0 a=16 b=21 sum= 5 v=1
+mode=0 cin=0 a=16 b=22 sum= 6 v=1
+mode=0 cin=0 a=16 b=23 sum= 7 v=1
+mode=0 cin=0 a=16 b=24 sum= 8 v=1
+mode=0 cin=0 a=16 b=25 sum= 9 v=1
+mode=0 cin=0 a=16 b=26 sum=10 v=1
+mode=0 cin=0 a=16 b=27 sum=11 v=1
+mode=0 cin=0 a=16 b=28 sum=12 v=1
+mode=0 cin=0 a=16 b=29 sum=13 v=1
+mode=0 cin=0 a=16 b=30 sum=14 v=1
+mode=0 cin=0 a=16 b=31 sum=15 v=1
+mode=0 cin=0 a=17 b= 0 sum=17 v=0
+mode=0 cin=0 a=17 b= 1 sum=18 v=0
+mode=0 cin=0 a=17 b= 2 sum=19 v=0
+mode=0 cin=0 a=17 b= 3 sum=20 v=0
+mode=0 cin=0 a=17 b= 4 sum=21 v=0
+mode=0 cin=0 a=17 b= 5 sum=22 v=0
+mode=0 cin=0 a=17 b= 6 sum=23 v=0
+mode=0 cin=0 a=17 b= 7 sum=24 v=0
+mode=0 cin=0 a=17 b= 8 sum=25 v=0
+mode=0 cin=0 a=17 b= 9 sum=26 v=0
+mode=0 cin=0 a=17 b=10 sum=27 v=0
+mode=0 cin=0 a=17 b=11 sum=28 v=0
+mode=0 cin=0 a=17 b=12 sum=29 v=0
+mode=0 cin=0 a=17 b=13 sum=30 v=0
+mode=0 cin=0 a=17 b=14 sum=31 v=0
+mode=0 cin=0 a=17 b=15 sum= 0 v=0
+mode=0 cin=0 a=17 b=16 sum= 1 v=1
+mode=0 cin=0 a=17 b=17 sum= 2 v=1
+mode=0 cin=0 a=17 b=18 sum= 3 v=1
+mode=0 cin=0 a=17 b=19 sum= 4 v=1
+mode=0 cin=0 a=17 b=20 sum= 5 v=1
+mode=0 cin=0 a=17 b=21 sum= 6 v=1
+mode=0 cin=0 a=17 b=22 sum= 7 v=1
+mode=0 cin=0 a=17 b=23 sum= 8 v=1
+mode=0 cin=0 a=17 b=24 sum= 9 v=1
+mode=0 cin=0 a=17 b=25 sum=10 v=1
+mode=0 cin=0 a=17 b=26 sum=11 v=1
+mode=0 cin=0 a=17 b=27 sum=12 v=1
+mode=0 cin=0 a=17 b=28 sum=13 v=1
+mode=0 cin=0 a=17 b=29 sum=14 v=1
+mode=0 cin=0 a=17 b=30 sum=15 v=1
+mode=0 cin=0 a=17 b=31 sum=16 v=0
+mode=0 cin=0 a=18 b= 0 sum=18 v=0
+mode=0 cin=0 a=18 b= 1 sum=19 v=0
+mode=0 cin=0 a=18 b= 2 sum=20 v=0
+mode=0 cin=0 a=18 b= 3 sum=21 v=0
+mode=0 cin=0 a=18 b= 4 sum=22 v=0
+mode=0 cin=0 a=18 b= 5 sum=23 v=0
+mode=0 cin=0 a=18 b= 6 sum=24 v=0
+mode=0 cin=0 a=18 b= 7 sum=25 v=0
+mode=0 cin=0 a=18 b= 8 sum=26 v=0
+mode=0 cin=0 a=18 b= 9 sum=27 v=0
+mode=0 cin=0 a=18 b=10 sum=28 v=0
+mode=0 cin=0 a=18 b=11 sum=29 v=0
+mode=0 cin=0 a=18 b=12 sum=30 v=0
+mode=0 cin=0 a=18 b=13 sum=31 v=0
+mode=0 cin=0 a=18 b=14 sum= 0 v=0
+mode=0 cin=0 a=18 b=15 sum= 1 v=0
+mode=0 cin=0 a=18 b=16 sum= 2 v=1
+mode=0 cin=0 a=18 b=17 sum= 3 v=1
+mode=0 cin=0 a=18 b=18 sum= 4 v=1
+mode=0 cin=0 a=18 b=19 sum= 5 v=1
+mode=0 cin=0 a=18 b=20 sum= 6 v=1
+mode=0 cin=0 a=18 b=21 sum= 7 v=1
+mode=0 cin=0 a=18 b=22 sum= 8 v=1
+mode=0 cin=0 a=18 b=23 sum= 9 v=1
+mode=0 cin=0 a=18 b=24 sum=10 v=1
+mode=0 cin=0 a=18 b=25 sum=11 v=1
+mode=0 cin=0 a=18 b=26 sum=12 v=1
+mode=0 cin=0 a=18 b=27 sum=13 v=1
+mode=0 cin=0 a=18 b=28 sum=14 v=1
+mode=0 cin=0 a=18 b=29 sum=15 v=1
+mode=0 cin=0 a=18 b=30 sum=16 v=0
+mode=0 cin=0 a=18 b=31 sum=17 v=0
+mode=0 cin=0 a=19 b= 0 sum=19 v=0
+mode=0 cin=0 a=19 b= 1 sum=20 v=0
+mode=0 cin=0 a=19 b= 2 sum=21 v=0
+mode=0 cin=0 a=19 b= 3 sum=22 v=0
+mode=0 cin=0 a=19 b= 4 sum=23 v=0
+mode=0 cin=0 a=19 b= 5 sum=24 v=0
+mode=0 cin=0 a=19 b= 6 sum=25 v=0
+mode=0 cin=0 a=19 b= 7 sum=26 v=0
+mode=0 cin=0 a=19 b= 8 sum=27 v=0
+mode=0 cin=0 a=19 b= 9 sum=28 v=0
+mode=0 cin=0 a=19 b=10 sum=29 v=0
+mode=0 cin=0 a=19 b=11 sum=30 v=0
+mode=0 cin=0 a=19 b=12 sum=31 v=0
+mode=0 cin=0 a=19 b=13 sum= 0 v=0
+mode=0 cin=0 a=19 b=14 sum= 1 v=0
+mode=0 cin=0 a=19 b=15 sum= 2 v=0
+mode=0 cin=0 a=19 b=16 sum= 3 v=1
+mode=0 cin=0 a=19 b=17 sum= 4 v=1
+mode=0 cin=0 a=19 b=18 sum= 5 v=1
+mode=0 cin=0 a=19 b=19 sum= 6 v=1
+mode=0 cin=0 a=19 b=20 sum= 7 v=1
+mode=0 cin=0 a=19 b=21 sum= 8 v=1
+mode=0 cin=0 a=19 b=22 sum= 9 v=1
+mode=0 cin=0 a=19 b=23 sum=10 v=1
+mode=0 cin=0 a=19 b=24 sum=11 v=1
+mode=0 cin=0 a=19 b=25 sum=12 v=1
+mode=0 cin=0 a=19 b=26 sum=13 v=1
+mode=0 cin=0 a=19 b=27 sum=14 v=1
+mode=0 cin=0 a=19 b=28 sum=15 v=1
+mode=0 cin=0 a=19 b=29 sum=16 v=0
+mode=0 cin=0 a=19 b=30 sum=17 v=0
+mode=0 cin=0 a=19 b=31 sum=18 v=0
+mode=0 cin=0 a=20 b= 0 sum=20 v=0
+mode=0 cin=0 a=20 b= 1 sum=21 v=0
+mode=0 cin=0 a=20 b= 2 sum=22 v=0
+mode=0 cin=0 a=20 b= 3 sum=23 v=0
+mode=0 cin=0 a=20 b= 4 sum=24 v=0
+mode=0 cin=0 a=20 b= 5 sum=25 v=0
+mode=0 cin=0 a=20 b= 6 sum=26 v=0
+mode=0 cin=0 a=20 b= 7 sum=27 v=0
+mode=0 cin=0 a=20 b= 8 sum=28 v=0
+mode=0 cin=0 a=20 b= 9 sum=29 v=0
+mode=0 cin=0 a=20 b=10 sum=30 v=0
+mode=0 cin=0 a=20 b=11 sum=31 v=0
+mode=0 cin=0 a=20 b=12 sum= 0 v=0
+mode=0 cin=0 a=20 b=13 sum= 1 v=0
+mode=0 cin=0 a=20 b=14 sum= 2 v=0
+mode=0 cin=0 a=20 b=15 sum= 3 v=0
+mode=0 cin=0 a=20 b=16 sum= 4 v=1
+mode=0 cin=0 a=20 b=17 sum= 5 v=1
+mode=0 cin=0 a=20 b=18 sum= 6 v=1
+mode=0 cin=0 a=20 b=19 sum= 7 v=1
+mode=0 cin=0 a=20 b=20 sum= 8 v=1
+mode=0 cin=0 a=20 b=21 sum= 9 v=1
+mode=0 cin=0 a=20 b=22 sum=10 v=1
+mode=0 cin=0 a=20 b=23 sum=11 v=1
+mode=0 cin=0 a=20 b=24 sum=12 v=1
+mode=0 cin=0 a=20 b=25 sum=13 v=1
+mode=0 cin=0 a=20 b=26 sum=14 v=1
+mode=0 cin=0 a=20 b=27 sum=15 v=1
+mode=0 cin=0 a=20 b=28 sum=16 v=0
+mode=0 cin=0 a=20 b=29 sum=17 v=0
+mode=0 cin=0 a=20 b=30 sum=18 v=0
+mode=0 cin=0 a=20 b=31 sum=19 v=0
+mode=0 cin=0 a=21 b= 0 sum=21 v=0
+mode=0 cin=0 a=21 b= 1 sum=22 v=0
+mode=0 cin=0 a=21 b= 2 sum=23 v=0
+mode=0 cin=0 a=21 b= 3 sum=24 v=0
+mode=0 cin=0 a=21 b= 4 sum=25 v=0
+mode=0 cin=0 a=21 b= 5 sum=26 v=0
+mode=0 cin=0 a=21 b= 6 sum=27 v=0
+mode=0 cin=0 a=21 b= 7 sum=28 v=0
+mode=0 cin=0 a=21 b= 8 sum=29 v=0
+mode=0 cin=0 a=21 b= 9 sum=30 v=0
+mode=0 cin=0 a=21 b=10 sum=31 v=0
+mode=0 cin=0 a=21 b=11 sum= 0 v=0
+mode=0 cin=0 a=21 b=12 sum= 1 v=0
+mode=0 cin=0 a=21 b=13 sum= 2 v=0
+mode=0 cin=0 a=21 b=14 sum= 3 v=0
+mode=0 cin=0 a=21 b=15 sum= 4 v=0
+mode=0 cin=0 a=21 b=16 sum= 5 v=1
+mode=0 cin=0 a=21 b=17 sum= 6 v=1
+mode=0 cin=0 a=21 b=18 sum= 7 v=1
+mode=0 cin=0 a=21 b=19 sum= 8 v=1
+mode=0 cin=0 a=21 b=20 sum= 9 v=1
+mode=0 cin=0 a=21 b=21 sum=10 v=1
+mode=0 cin=0 a=21 b=22 sum=11 v=1
+mode=0 cin=0 a=21 b=23 sum=12 v=1
+mode=0 cin=0 a=21 b=24 sum=13 v=1
+mode=0 cin=0 a=21 b=25 sum=14 v=1
+mode=0 cin=0 a=21 b=26 sum=15 v=1
+mode=0 cin=0 a=21 b=27 sum=16 v=0
+mode=0 cin=0 a=21 b=28 sum=17 v=0
+mode=0 cin=0 a=21 b=29 sum=18 v=0
+mode=0 cin=0 a=21 b=30 sum=19 v=0
+mode=0 cin=0 a=21 b=31 sum=20 v=0
+mode=0 cin=0 a=22 b= 0 sum=22 v=0
+mode=0 cin=0 a=22 b= 1 sum=23 v=0
+mode=0 cin=0 a=22 b= 2 sum=24 v=0
+mode=0 cin=0 a=22 b= 3 sum=25 v=0
+mode=0 cin=0 a=22 b= 4 sum=26 v=0
+mode=0 cin=0 a=22 b= 5 sum=27 v=0
+mode=0 cin=0 a=22 b= 6 sum=28 v=0
+mode=0 cin=0 a=22 b= 7 sum=29 v=0
+mode=0 cin=0 a=22 b= 8 sum=30 v=0
+mode=0 cin=0 a=22 b= 9 sum=31 v=0
+mode=0 cin=0 a=22 b=10 sum= 0 v=0
+mode=0 cin=0 a=22 b=11 sum= 1 v=0
+mode=0 cin=0 a=22 b=12 sum= 2 v=0
+mode=0 cin=0 a=22 b=13 sum= 3 v=0
+mode=0 cin=0 a=22 b=14 sum= 4 v=0
+mode=0 cin=0 a=22 b=15 sum= 5 v=0
+mode=0 cin=0 a=22 b=16 sum= 6 v=1
+mode=0 cin=0 a=22 b=17 sum= 7 v=1
+mode=0 cin=0 a=22 b=18 sum= 8 v=1
+mode=0 cin=0 a=22 b=19 sum= 9 v=1
+mode=0 cin=0 a=22 b=20 sum=10 v=1
+mode=0 cin=0 a=22 b=21 sum=11 v=1
+mode=0 cin=0 a=22 b=22 sum=12 v=1
+mode=0 cin=0 a=22 b=23 sum=13 v=1
+mode=0 cin=0 a=22 b=24 sum=14 v=1
+mode=0 cin=0 a=22 b=25 sum=15 v=1
+mode=0 cin=0 a=22 b=26 sum=16 v=0
+mode=0 cin=0 a=22 b=27 sum=17 v=0
+mode=0 cin=0 a=22 b=28 sum=18 v=0
+mode=0 cin=0 a=22 b=29 sum=19 v=0
+mode=0 cin=0 a=22 b=30 sum=20 v=0
+mode=0 cin=0 a=22 b=31 sum=21 v=0
+mode=0 cin=0 a=23 b= 0 sum=23 v=0
+mode=0 cin=0 a=23 b= 1 sum=24 v=0
+mode=0 cin=0 a=23 b= 2 sum=25 v=0
+mode=0 cin=0 a=23 b= 3 sum=26 v=0
+mode=0 cin=0 a=23 b= 4 sum=27 v=0
+mode=0 cin=0 a=23 b= 5 sum=28 v=0
+mode=0 cin=0 a=23 b= 6 sum=29 v=0
+mode=0 cin=0 a=23 b= 7 sum=30 v=0
+mode=0 cin=0 a=23 b= 8 sum=31 v=0
+mode=0 cin=0 a=23 b= 9 sum= 0 v=0
+mode=0 cin=0 a=23 b=10 sum= 1 v=0
+mode=0 cin=0 a=23 b=11 sum= 2 v=0
+mode=0 cin=0 a=23 b=12 sum= 3 v=0
+mode=0 cin=0 a=23 b=13 sum= 4 v=0
+mode=0 cin=0 a=23 b=14 sum= 5 v=0
+mode=0 cin=0 a=23 b=15 sum= 6 v=0
+mode=0 cin=0 a=23 b=16 sum= 7 v=1
+mode=0 cin=0 a=23 b=17 sum= 8 v=1
+mode=0 cin=0 a=23 b=18 sum= 9 v=1
+mode=0 cin=0 a=23 b=19 sum=10 v=1
+mode=0 cin=0 a=23 b=20 sum=11 v=1
+mode=0 cin=0 a=23 b=21 sum=12 v=1
+mode=0 cin=0 a=23 b=22 sum=13 v=1
+mode=0 cin=0 a=23 b=23 sum=14 v=1
+mode=0 cin=0 a=23 b=24 sum=15 v=1
+mode=0 cin=0 a=23 b=25 sum=16 v=0
+mode=0 cin=0 a=23 b=26 sum=17 v=0
+mode=0 cin=0 a=23 b=27 sum=18 v=0
+mode=0 cin=0 a=23 b=28 sum=19 v=0
+mode=0 cin=0 a=23 b=29 sum=20 v=0
+mode=0 cin=0 a=23 b=30 sum=21 v=0
+mode=0 cin=0 a=23 b=31 sum=22 v=0
+mode=0 cin=0 a=24 b= 0 sum=24 v=0
+mode=0 cin=0 a=24 b= 1 sum=25 v=0
+mode=0 cin=0 a=24 b= 2 sum=26 v=0
+mode=0 cin=0 a=24 b= 3 sum=27 v=0
+mode=0 cin=0 a=24 b= 4 sum=28 v=0
+mode=0 cin=0 a=24 b= 5 sum=29 v=0
+mode=0 cin=0 a=24 b= 6 sum=30 v=0
+mode=0 cin=0 a=24 b= 7 sum=31 v=0
+mode=0 cin=0 a=24 b= 8 sum= 0 v=0
+mode=0 cin=0 a=24 b= 9 sum= 1 v=0
+mode=0 cin=0 a=24 b=10 sum= 2 v=0
+mode=0 cin=0 a=24 b=11 sum= 3 v=0
+mode=0 cin=0 a=24 b=12 sum= 4 v=0
+mode=0 cin=0 a=24 b=13 sum= 5 v=0
+mode=0 cin=0 a=24 b=14 sum= 6 v=0
+mode=0 cin=0 a=24 b=15 sum= 7 v=0
+mode=0 cin=0 a=24 b=16 sum= 8 v=1
+mode=0 cin=0 a=24 b=17 sum= 9 v=1
+mode=0 cin=0 a=24 b=18 sum=10 v=1
+mode=0 cin=0 a=24 b=19 sum=11 v=1
+mode=0 cin=0 a=24 b=20 sum=12 v=1
+mode=0 cin=0 a=24 b=21 sum=13 v=1
+mode=0 cin=0 a=24 b=22 sum=14 v=1
+mode=0 cin=0 a=24 b=23 sum=15 v=1
+mode=0 cin=0 a=24 b=24 sum=16 v=0
+mode=0 cin=0 a=24 b=25 sum=17 v=0
+mode=0 cin=0 a=24 b=26 sum=18 v=0
+mode=0 cin=0 a=24 b=27 sum=19 v=0
+mode=0 cin=0 a=24 b=28 sum=20 v=0
+mode=0 cin=0 a=24 b=29 sum=21 v=0
+mode=0 cin=0 a=24 b=30 sum=22 v=0
+mode=0 cin=0 a=24 b=31 sum=23 v=0
+mode=0 cin=0 a=25 b= 0 sum=25 v=0
+mode=0 cin=0 a=25 b= 1 sum=26 v=0
+mode=0 cin=0 a=25 b= 2 sum=27 v=0
+mode=0 cin=0 a=25 b= 3 sum=28 v=0
+mode=0 cin=0 a=25 b= 4 sum=29 v=0
+mode=0 cin=0 a=25 b= 5 sum=30 v=0
+mode=0 cin=0 a=25 b= 6 sum=31 v=0
+mode=0 cin=0 a=25 b= 7 sum= 0 v=0
+mode=0 cin=0 a=25 b= 8 sum= 1 v=0
+mode=0 cin=0 a=25 b= 9 sum= 2 v=0
+mode=0 cin=0 a=25 b=10 sum= 3 v=0
+mode=0 cin=0 a=25 b=11 sum= 4 v=0
+mode=0 cin=0 a=25 b=12 sum= 5 v=0
+mode=0 cin=0 a=25 b=13 sum= 6 v=0
+mode=0 cin=0 a=25 b=14 sum= 7 v=0
+mode=0 cin=0 a=25 b=15 sum= 8 v=0
+mode=0 cin=0 a=25 b=16 sum= 9 v=1
+mode=0 cin=0 a=25 b=17 sum=10 v=1
+mode=0 cin=0 a=25 b=18 sum=11 v=1
+mode=0 cin=0 a=25 b=19 sum=12 v=1
+mode=0 cin=0 a=25 b=20 sum=13 v=1
+mode=0 cin=0 a=25 b=21 sum=14 v=1
+mode=0 cin=0 a=25 b=22 sum=15 v=1
+mode=0 cin=0 a=25 b=23 sum=16 v=0
+mode=0 cin=0 a=25 b=24 sum=17 v=0
+mode=0 cin=0 a=25 b=25 sum=18 v=0
+mode=0 cin=0 a=25 b=26 sum=19 v=0
+mode=0 cin=0 a=25 b=27 sum=20 v=0
+mode=0 cin=0 a=25 b=28 sum=21 v=0
+mode=0 cin=0 a=25 b=29 sum=22 v=0
+mode=0 cin=0 a=25 b=30 sum=23 v=0
+mode=0 cin=0 a=25 b=31 sum=24 v=0
+mode=0 cin=0 a=26 b= 0 sum=26 v=0
+mode=0 cin=0 a=26 b= 1 sum=27 v=0
+mode=0 cin=0 a=26 b= 2 sum=28 v=0
+mode=0 cin=0 a=26 b= 3 sum=29 v=0
+mode=0 cin=0 a=26 b= 4 sum=30 v=0
+mode=0 cin=0 a=26 b= 5 sum=31 v=0
+mode=0 cin=0 a=26 b= 6 sum= 0 v=0
+mode=0 cin=0 a=26 b= 7 sum= 1 v=0
+mode=0 cin=0 a=26 b= 8 sum= 2 v=0
+mode=0 cin=0 a=26 b= 9 sum= 3 v=0
+mode=0 cin=0 a=26 b=10 sum= 4 v=0
+mode=0 cin=0 a=26 b=11 sum= 5 v=0
+mode=0 cin=0 a=26 b=12 sum= 6 v=0
+mode=0 cin=0 a=26 b=13 sum= 7 v=0
+mode=0 cin=0 a=26 b=14 sum= 8 v=0
+mode=0 cin=0 a=26 b=15 sum= 9 v=0
+mode=0 cin=0 a=26 b=16 sum=10 v=1
+mode=0 cin=0 a=26 b=17 sum=11 v=1
+mode=0 cin=0 a=26 b=18 sum=12 v=1
+mode=0 cin=0 a=26 b=19 sum=13 v=1
+mode=0 cin=0 a=26 b=20 sum=14 v=1
+mode=0 cin=0 a=26 b=21 sum=15 v=1
+mode=0 cin=0 a=26 b=22 sum=16 v=0
+mode=0 cin=0 a=26 b=23 sum=17 v=0
+mode=0 cin=0 a=26 b=24 sum=18 v=0
+mode=0 cin=0 a=26 b=25 sum=19 v=0
+mode=0 cin=0 a=26 b=26 sum=20 v=0
+mode=0 cin=0 a=26 b=27 sum=21 v=0
+mode=0 cin=0 a=26 b=28 sum=22 v=0
+mode=0 cin=0 a=26 b=29 sum=23 v=0
+mode=0 cin=0 a=26 b=30 sum=24 v=0
+mode=0 cin=0 a=26 b=31 sum=25 v=0
+mode=0 cin=0 a=27 b= 0 sum=27 v=0
+mode=0 cin=0 a=27 b= 1 sum=28 v=0
+mode=0 cin=0 a=27 b= 2 sum=29 v=0
+mode=0 cin=0 a=27 b= 3 sum=30 v=0
+mode=0 cin=0 a=27 b= 4 sum=31 v=0
+mode=0 cin=0 a=27 b= 5 sum= 0 v=0
+mode=0 cin=0 a=27 b= 6 sum= 1 v=0
+mode=0 cin=0 a=27 b= 7 sum= 2 v=0
+mode=0 cin=0 a=27 b= 8 sum= 3 v=0
+mode=0 cin=0 a=27 b= 9 sum= 4 v=0
+mode=0 cin=0 a=27 b=10 sum= 5 v=0
+mode=0 cin=0 a=27 b=11 sum= 6 v=0
+mode=0 cin=0 a=27 b=12 sum= 7 v=0
+mode=0 cin=0 a=27 b=13 sum= 8 v=0
+mode=0 cin=0 a=27 b=14 sum= 9 v=0
+mode=0 cin=0 a=27 b=15 sum=10 v=0
+mode=0 cin=0 a=27 b=16 sum=11 v=1
+mode=0 cin=0 a=27 b=17 sum=12 v=1
+mode=0 cin=0 a=27 b=18 sum=13 v=1
+mode=0 cin=0 a=27 b=19 sum=14 v=1
+mode=0 cin=0 a=27 b=20 sum=15 v=1
+mode=0 cin=0 a=27 b=21 sum=16 v=0
+mode=0 cin=0 a=27 b=22 sum=17 v=0
+mode=0 cin=0 a=27 b=23 sum=18 v=0
+mode=0 cin=0 a=27 b=24 sum=19 v=0
+mode=0 cin=0 a=27 b=25 sum=20 v=0
+mode=0 cin=0 a=27 b=26 sum=21 v=0
+mode=0 cin=0 a=27 b=27 sum=22 v=0
+mode=0 cin=0 a=27 b=28 sum=23 v=0
+mode=0 cin=0 a=27 b=29 sum=24 v=0
+mode=0 cin=0 a=27 b=30 sum=25 v=0
+mode=0 cin=0 a=27 b=31 sum=26 v=0
+mode=0 cin=0 a=28 b= 0 sum=28 v=0
+mode=0 cin=0 a=28 b= 1 sum=29 v=0
+mode=0 cin=0 a=28 b= 2 sum=30 v=0
+mode=0 cin=0 a=28 b= 3 sum=31 v=0
+mode=0 cin=0 a=28 b= 4 sum= 0 v=0
+mode=0 cin=0 a=28 b= 5 sum= 1 v=0
+mode=0 cin=0 a=28 b= 6 sum= 2 v=0
+mode=0 cin=0 a=28 b= 7 sum= 3 v=0
+mode=0 cin=0 a=28 b= 8 sum= 4 v=0
+mode=0 cin=0 a=28 b= 9 sum= 5 v=0
+mode=0 cin=0 a=28 b=10 sum= 6 v=0
+mode=0 cin=0 a=28 b=11 sum= 7 v=0
+mode=0 cin=0 a=28 b=12 sum= 8 v=0
+mode=0 cin=0 a=28 b=13 sum= 9 v=0
+mode=0 cin=0 a=28 b=14 sum=10 v=0
+mode=0 cin=0 a=28 b=15 sum=11 v=0
+mode=0 cin=0 a=28 b=16 sum=12 v=1
+mode=0 cin=0 a=28 b=17 sum=13 v=1
+mode=0 cin=0 a=28 b=18 sum=14 v=1
+mode=0 cin=0 a=28 b=19 sum=15 v=1
+mode=0 cin=0 a=28 b=20 sum=16 v=0
+mode=0 cin=0 a=28 b=21 sum=17 v=0
+mode=0 cin=0 a=28 b=22 sum=18 v=0
+mode=0 cin=0 a=28 b=23 sum=19 v=0
+mode=0 cin=0 a=28 b=24 sum=20 v=0
+mode=0 cin=0 a=28 b=25 sum=21 v=0
+mode=0 cin=0 a=28 b=26 sum=22 v=0
+mode=0 cin=0 a=28 b=27 sum=23 v=0
+mode=0 cin=0 a=28 b=28 sum=24 v=0
+mode=0 cin=0 a=28 b=29 sum=25 v=0
+mode=0 cin=0 a=28 b=30 sum=26 v=0
+mode=0 cin=0 a=28 b=31 sum=27 v=0
+mode=0 cin=0 a=29 b= 0 sum=29 v=0
+mode=0 cin=0 a=29 b= 1 sum=30 v=0
+mode=0 cin=0 a=29 b= 2 sum=31 v=0
+mode=0 cin=0 a=29 b= 3 sum= 0 v=0
+mode=0 cin=0 a=29 b= 4 sum= 1 v=0
+mode=0 cin=0 a=29 b= 5 sum= 2 v=0
+mode=0 cin=0 a=29 b= 6 sum= 3 v=0
+mode=0 cin=0 a=29 b= 7 sum= 4 v=0
+mode=0 cin=0 a=29 b= 8 sum= 5 v=0
+mode=0 cin=0 a=29 b= 9 sum= 6 v=0
+mode=0 cin=0 a=29 b=10 sum= 7 v=0
+mode=0 cin=0 a=29 b=11 sum= 8 v=0
+mode=0 cin=0 a=29 b=12 sum= 9 v=0
+mode=0 cin=0 a=29 b=13 sum=10 v=0
+mode=0 cin=0 a=29 b=14 sum=11 v=0
+mode=0 cin=0 a=29 b=15 sum=12 v=0
+mode=0 cin=0 a=29 b=16 sum=13 v=1
+mode=0 cin=0 a=29 b=17 sum=14 v=1
+mode=0 cin=0 a=29 b=18 sum=15 v=1
+mode=0 cin=0 a=29 b=19 sum=16 v=0
+mode=0 cin=0 a=29 b=20 sum=17 v=0
+mode=0 cin=0 a=29 b=21 sum=18 v=0
+mode=0 cin=0 a=29 b=22 sum=19 v=0
+mode=0 cin=0 a=29 b=23 sum=20 v=0
+mode=0 cin=0 a=29 b=24 sum=21 v=0
+mode=0 cin=0 a=29 b=25 sum=22 v=0
+mode=0 cin=0 a=29 b=26 sum=23 v=0
+mode=0 cin=0 a=29 b=27 sum=24 v=0
+mode=0 cin=0 a=29 b=28 sum=25 v=0
+mode=0 cin=0 a=29 b=29 sum=26 v=0
+mode=0 cin=0 a=29 b=30 sum=27 v=0
+mode=0 cin=0 a=29 b=31 sum=28 v=0
+mode=0 cin=0 a=30 b= 0 sum=30 v=0
+mode=0 cin=0 a=30 b= 1 sum=31 v=0
+mode=0 cin=0 a=30 b= 2 sum= 0 v=0
+mode=0 cin=0 a=30 b= 3 sum= 1 v=0
+mode=0 cin=0 a=30 b= 4 sum= 2 v=0
+mode=0 cin=0 a=30 b= 5 sum= 3 v=0
+mode=0 cin=0 a=30 b= 6 sum= 4 v=0
+mode=0 cin=0 a=30 b= 7 sum= 5 v=0
+mode=0 cin=0 a=30 b= 8 sum= 6 v=0
+mode=0 cin=0 a=30 b= 9 sum= 7 v=0
+mode=0 cin=0 a=30 b=10 sum= 8 v=0
+mode=0 cin=0 a=30 b=11 sum= 9 v=0
+mode=0 cin=0 a=30 b=12 sum=10 v=0
+mode=0 cin=0 a=30 b=13 sum=11 v=0
+mode=0 cin=0 a=30 b=14 sum=12 v=0
+mode=0 cin=0 a=30 b=15 sum=13 v=0
+mode=0 cin=0 a=30 b=16 sum=14 v=1
+mode=0 cin=0 a=30 b=17 sum=15 v=1
+mode=0 cin=0 a=30 b=18 sum=16 v=0
+mode=0 cin=0 a=30 b=19 sum=17 v=0
+mode=0 cin=0 a=30 b=20 sum=18 v=0
+mode=0 cin=0 a=30 b=21 sum=19 v=0
+mode=0 cin=0 a=30 b=22 sum=20 v=0
+mode=0 cin=0 a=30 b=23 sum=21 v=0
+mode=0 cin=0 a=30 b=24 sum=22 v=0
+mode=0 cin=0 a=30 b=25 sum=23 v=0
+mode=0 cin=0 a=30 b=26 sum=24 v=0
+mode=0 cin=0 a=30 b=27 sum=25 v=0
+mode=0 cin=0 a=30 b=28 sum=26 v=0
+mode=0 cin=0 a=30 b=29 sum=27 v=0
+mode=0 cin=0 a=30 b=30 sum=28 v=0
+mode=0 cin=0 a=30 b=31 sum=29 v=0
+mode=0 cin=0 a=31 b= 0 sum=31 v=0
+mode=0 cin=0 a=31 b= 1 sum= 0 v=0
+mode=0 cin=0 a=31 b= 2 sum= 1 v=0
+mode=0 cin=0 a=31 b= 3 sum= 2 v=0
+mode=0 cin=0 a=31 b= 4 sum= 3 v=0
+mode=0 cin=0 a=31 b= 5 sum= 4 v=0
+mode=0 cin=0 a=31 b= 6 sum= 5 v=0
+mode=0 cin=0 a=31 b= 7 sum= 6 v=0
+mode=0 cin=0 a=31 b= 8 sum= 7 v=0
+mode=0 cin=0 a=31 b= 9 sum= 8 v=0
+mode=0 cin=0 a=31 b=10 sum= 9 v=0
+mode=0 cin=0 a=31 b=11 sum=10 v=0
+mode=0 cin=0 a=31 b=12 sum=11 v=0
+mode=0 cin=0 a=31 b=13 sum=12 v=0
+mode=0 cin=0 a=31 b=14 sum=13 v=0
+mode=0 cin=0 a=31 b=15 sum=14 v=0
+mode=0 cin=0 a=31 b=16 sum=15 v=1
+mode=0 cin=0 a=31 b=17 sum=16 v=0
+mode=0 cin=0 a=31 b=18 sum=17 v=0
+mode=0 cin=0 a=31 b=19 sum=18 v=0
+mode=0 cin=0 a=31 b=20 sum=19 v=0
+mode=0 cin=0 a=31 b=21 sum=20 v=0
+mode=0 cin=0 a=31 b=22 sum=21 v=0
+mode=0 cin=0 a=31 b=23 sum=22 v=0
+mode=0 cin=0 a=31 b=24 sum=23 v=0
+mode=0 cin=0 a=31 b=25 sum=24 v=0
+mode=0 cin=0 a=31 b=26 sum=25 v=0
+mode=0 cin=0 a=31 b=27 sum=26 v=0
+mode=0 cin=0 a=31 b=28 sum=27 v=0
+mode=0 cin=0 a=31 b=29 sum=28 v=0
+mode=0 cin=0 a=31 b=30 sum=29 v=0
+mode=0 cin=0 a=31 b=31 sum=30 v=0
+5-bit subtractor
+mode=1 cin=1 a= 0 b= 0 difference= 0 v=0
+mode=1 cin=1 a= 0 b= 1 difference=31 v=0
+mode=1 cin=1 a= 0 b= 2 difference=30 v=0
+mode=1 cin=1 a= 0 b= 3 difference=29 v=0
+mode=1 cin=1 a= 0 b= 4 difference=28 v=0
+mode=1 cin=1 a= 0 b= 5 difference=27 v=0
+mode=1 cin=1 a= 0 b= 6 difference=26 v=0
+mode=1 cin=1 a= 0 b= 7 difference=25 v=0
+mode=1 cin=1 a= 0 b= 8 difference=24 v=0
+mode=1 cin=1 a= 0 b= 9 difference=23 v=0
+mode=1 cin=1 a= 0 b=10 difference=22 v=0
+mode=1 cin=1 a= 0 b=11 difference=21 v=0
+mode=1 cin=1 a= 0 b=12 difference=20 v=0
+mode=1 cin=1 a= 0 b=13 difference=19 v=0
+mode=1 cin=1 a= 0 b=14 difference=18 v=0
+mode=1 cin=1 a= 0 b=15 difference=17 v=0
+mode=1 cin=1 a= 0 b=16 difference=16 v=1
+mode=1 cin=1 a= 0 b=17 difference=15 v=0
+mode=1 cin=1 a= 0 b=18 difference=14 v=0
+mode=1 cin=1 a= 0 b=19 difference=13 v=0
+mode=1 cin=1 a= 0 b=20 difference=12 v=0
+mode=1 cin=1 a= 0 b=21 difference=11 v=0
+mode=1 cin=1 a= 0 b=22 difference=10 v=0
+mode=1 cin=1 a= 0 b=23 difference= 9 v=0
+mode=1 cin=1 a= 0 b=24 difference= 8 v=0
+mode=1 cin=1 a= 0 b=25 difference= 7 v=0
+mode=1 cin=1 a= 0 b=26 difference= 6 v=0
+mode=1 cin=1 a= 0 b=27 difference= 5 v=0
+mode=1 cin=1 a= 0 b=28 difference= 4 v=0
+mode=1 cin=1 a= 0 b=29 difference= 3 v=0
+mode=1 cin=1 a= 0 b=30 difference= 2 v=0
+mode=1 cin=1 a= 0 b=31 difference= 1 v=0
+mode=1 cin=1 a= 1 b= 0 difference= 1 v=0
+mode=1 cin=1 a= 1 b= 1 difference= 0 v=0
+mode=1 cin=1 a= 1 b= 2 difference=31 v=0
+mode=1 cin=1 a= 1 b= 3 difference=30 v=0
+mode=1 cin=1 a= 1 b= 4 difference=29 v=0
+mode=1 cin=1 a= 1 b= 5 difference=28 v=0
+mode=1 cin=1 a= 1 b= 6 difference=27 v=0
+mode=1 cin=1 a= 1 b= 7 difference=26 v=0
+mode=1 cin=1 a= 1 b= 8 difference=25 v=0
+mode=1 cin=1 a= 1 b= 9 difference=24 v=0
+mode=1 cin=1 a= 1 b=10 difference=23 v=0
+mode=1 cin=1 a= 1 b=11 difference=22 v=0
+mode=1 cin=1 a= 1 b=12 difference=21 v=0
+mode=1 cin=1 a= 1 b=13 difference=20 v=0
+mode=1 cin=1 a= 1 b=14 difference=19 v=0
+mode=1 cin=1 a= 1 b=15 difference=18 v=0
+mode=1 cin=1 a= 1 b=16 difference=17 v=1
+mode=1 cin=1 a= 1 b=17 difference=16 v=1
+mode=1 cin=1 a= 1 b=18 difference=15 v=0
+mode=1 cin=1 a= 1 b=19 difference=14 v=0
+mode=1 cin=1 a= 1 b=20 difference=13 v=0
+mode=1 cin=1 a= 1 b=21 difference=12 v=0
+mode=1 cin=1 a= 1 b=22 difference=11 v=0
+mode=1 cin=1 a= 1 b=23 difference=10 v=0
+mode=1 cin=1 a= 1 b=24 difference= 9 v=0
+mode=1 cin=1 a= 1 b=25 difference= 8 v=0
+mode=1 cin=1 a= 1 b=26 difference= 7 v=0
+mode=1 cin=1 a= 1 b=27 difference= 6 v=0
+mode=1 cin=1 a= 1 b=28 difference= 5 v=0
+mode=1 cin=1 a= 1 b=29 difference= 4 v=0
+mode=1 cin=1 a= 1 b=30 difference= 3 v=0
+mode=1 cin=1 a= 1 b=31 difference= 2 v=0
+mode=1 cin=1 a= 2 b= 0 difference= 2 v=0
+mode=1 cin=1 a= 2 b= 1 difference= 1 v=0
+mode=1 cin=1 a= 2 b= 2 difference= 0 v=0
+mode=1 cin=1 a= 2 b= 3 difference=31 v=0
+mode=1 cin=1 a= 2 b= 4 difference=30 v=0
+mode=1 cin=1 a= 2 b= 5 difference=29 v=0
+mode=1 cin=1 a= 2 b= 6 difference=28 v=0
+mode=1 cin=1 a= 2 b= 7 difference=27 v=0
+mode=1 cin=1 a= 2 b= 8 difference=26 v=0
+mode=1 cin=1 a= 2 b= 9 difference=25 v=0
+mode=1 cin=1 a= 2 b=10 difference=24 v=0
+mode=1 cin=1 a= 2 b=11 difference=23 v=0
+mode=1 cin=1 a= 2 b=12 difference=22 v=0
+mode=1 cin=1 a= 2 b=13 difference=21 v=0
+mode=1 cin=1 a= 2 b=14 difference=20 v=0
+mode=1 cin=1 a= 2 b=15 difference=19 v=0
+mode=1 cin=1 a= 2 b=16 difference=18 v=1
+mode=1 cin=1 a= 2 b=17 difference=17 v=1
+mode=1 cin=1 a= 2 b=18 difference=16 v=1
+mode=1 cin=1 a= 2 b=19 difference=15 v=0
+mode=1 cin=1 a= 2 b=20 difference=14 v=0
+mode=1 cin=1 a= 2 b=21 difference=13 v=0
+mode=1 cin=1 a= 2 b=22 difference=12 v=0
+mode=1 cin=1 a= 2 b=23 difference=11 v=0
+mode=1 cin=1 a= 2 b=24 difference=10 v=0
+mode=1 cin=1 a= 2 b=25 difference= 9 v=0
+mode=1 cin=1 a= 2 b=26 difference= 8 v=0
+mode=1 cin=1 a= 2 b=27 difference= 7 v=0
+mode=1 cin=1 a= 2 b=28 difference= 6 v=0
+mode=1 cin=1 a= 2 b=29 difference= 5 v=0
+mode=1 cin=1 a= 2 b=30 difference= 4 v=0
+mode=1 cin=1 a= 2 b=31 difference= 3 v=0
+mode=1 cin=1 a= 3 b= 0 difference= 3 v=0
+mode=1 cin=1 a= 3 b= 1 difference= 2 v=0
+mode=1 cin=1 a= 3 b= 2 difference= 1 v=0
+mode=1 cin=1 a= 3 b= 3 difference= 0 v=0
+mode=1 cin=1 a= 3 b= 4 difference=31 v=0
+mode=1 cin=1 a= 3 b= 5 difference=30 v=0
+mode=1 cin=1 a= 3 b= 6 difference=29 v=0
+mode=1 cin=1 a= 3 b= 7 difference=28 v=0
+mode=1 cin=1 a= 3 b= 8 difference=27 v=0
+mode=1 cin=1 a= 3 b= 9 difference=26 v=0
+mode=1 cin=1 a= 3 b=10 difference=25 v=0
+mode=1 cin=1 a= 3 b=11 difference=24 v=0
+mode=1 cin=1 a= 3 b=12 difference=23 v=0
+mode=1 cin=1 a= 3 b=13 difference=22 v=0
+mode=1 cin=1 a= 3 b=14 difference=21 v=0
+mode=1 cin=1 a= 3 b=15 difference=20 v=0
+mode=1 cin=1 a= 3 b=16 difference=19 v=1
+mode=1 cin=1 a= 3 b=17 difference=18 v=1
+mode=1 cin=1 a= 3 b=18 difference=17 v=1
+mode=1 cin=1 a= 3 b=19 difference=16 v=1
+mode=1 cin=1 a= 3 b=20 difference=15 v=0
+mode=1 cin=1 a= 3 b=21 difference=14 v=0
+mode=1 cin=1 a= 3 b=22 difference=13 v=0
+mode=1 cin=1 a= 3 b=23 difference=12 v=0
+mode=1 cin=1 a= 3 b=24 difference=11 v=0
+mode=1 cin=1 a= 3 b=25 difference=10 v=0
+mode=1 cin=1 a= 3 b=26 difference= 9 v=0
+mode=1 cin=1 a= 3 b=27 difference= 8 v=0
+mode=1 cin=1 a= 3 b=28 difference= 7 v=0
+mode=1 cin=1 a= 3 b=29 difference= 6 v=0
+mode=1 cin=1 a= 3 b=30 difference= 5 v=0
+mode=1 cin=1 a= 3 b=31 difference= 4 v=0
+mode=1 cin=1 a= 4 b= 0 difference= 4 v=0
+mode=1 cin=1 a= 4 b= 1 difference= 3 v=0
+mode=1 cin=1 a= 4 b= 2 difference= 2 v=0
+mode=1 cin=1 a= 4 b= 3 difference= 1 v=0
+mode=1 cin=1 a= 4 b= 4 difference= 0 v=0
+mode=1 cin=1 a= 4 b= 5 difference=31 v=0
+mode=1 cin=1 a= 4 b= 6 difference=30 v=0
+mode=1 cin=1 a= 4 b= 7 difference=29 v=0
+mode=1 cin=1 a= 4 b= 8 difference=28 v=0
+mode=1 cin=1 a= 4 b= 9 difference=27 v=0
+mode=1 cin=1 a= 4 b=10 difference=26 v=0
+mode=1 cin=1 a= 4 b=11 difference=25 v=0
+mode=1 cin=1 a= 4 b=12 difference=24 v=0
+mode=1 cin=1 a= 4 b=13 difference=23 v=0
+mode=1 cin=1 a= 4 b=14 difference=22 v=0
+mode=1 cin=1 a= 4 b=15 difference=21 v=0
+mode=1 cin=1 a= 4 b=16 difference=20 v=1
+mode=1 cin=1 a= 4 b=17 difference=19 v=1
+mode=1 cin=1 a= 4 b=18 difference=18 v=1
+mode=1 cin=1 a= 4 b=19 difference=17 v=1
+mode=1 cin=1 a= 4 b=20 difference=16 v=1
+mode=1 cin=1 a= 4 b=21 difference=15 v=0
+mode=1 cin=1 a= 4 b=22 difference=14 v=0
+mode=1 cin=1 a= 4 b=23 difference=13 v=0
+mode=1 cin=1 a= 4 b=24 difference=12 v=0
+mode=1 cin=1 a= 4 b=25 difference=11 v=0
+mode=1 cin=1 a= 4 b=26 difference=10 v=0
+mode=1 cin=1 a= 4 b=27 difference= 9 v=0
+mode=1 cin=1 a= 4 b=28 difference= 8 v=0
+mode=1 cin=1 a= 4 b=29 difference= 7 v=0
+mode=1 cin=1 a= 4 b=30 difference= 6 v=0
+mode=1 cin=1 a= 4 b=31 difference= 5 v=0
+mode=1 cin=1 a= 5 b= 0 difference= 5 v=0
+mode=1 cin=1 a= 5 b= 1 difference= 4 v=0
+mode=1 cin=1 a= 5 b= 2 difference= 3 v=0
+mode=1 cin=1 a= 5 b= 3 difference= 2 v=0
+mode=1 cin=1 a= 5 b= 4 difference= 1 v=0
+mode=1 cin=1 a= 5 b= 5 difference= 0 v=0
+mode=1 cin=1 a= 5 b= 6 difference=31 v=0
+mode=1 cin=1 a= 5 b= 7 difference=30 v=0
+mode=1 cin=1 a= 5 b= 8 difference=29 v=0
+mode=1 cin=1 a= 5 b= 9 difference=28 v=0
+mode=1 cin=1 a= 5 b=10 difference=27 v=0
+mode=1 cin=1 a= 5 b=11 difference=26 v=0
+mode=1 cin=1 a= 5 b=12 difference=25 v=0
+mode=1 cin=1 a= 5 b=13 difference=24 v=0
+mode=1 cin=1 a= 5 b=14 difference=23 v=0
+mode=1 cin=1 a= 5 b=15 difference=22 v=0
+mode=1 cin=1 a= 5 b=16 difference=21 v=1
+mode=1 cin=1 a= 5 b=17 difference=20 v=1
+mode=1 cin=1 a= 5 b=18 difference=19 v=1
+mode=1 cin=1 a= 5 b=19 difference=18 v=1
+mode=1 cin=1 a= 5 b=20 difference=17 v=1
+mode=1 cin=1 a= 5 b=21 difference=16 v=1
+mode=1 cin=1 a= 5 b=22 difference=15 v=0
+mode=1 cin=1 a= 5 b=23 difference=14 v=0
+mode=1 cin=1 a= 5 b=24 difference=13 v=0
+mode=1 cin=1 a= 5 b=25 difference=12 v=0
+mode=1 cin=1 a= 5 b=26 difference=11 v=0
+mode=1 cin=1 a= 5 b=27 difference=10 v=0
+mode=1 cin=1 a= 5 b=28 difference= 9 v=0
+mode=1 cin=1 a= 5 b=29 difference= 8 v=0
+mode=1 cin=1 a= 5 b=30 difference= 7 v=0
+mode=1 cin=1 a= 5 b=31 difference= 6 v=0
+mode=1 cin=1 a= 6 b= 0 difference= 6 v=0
+mode=1 cin=1 a= 6 b= 1 difference= 5 v=0
+mode=1 cin=1 a= 6 b= 2 difference= 4 v=0
+mode=1 cin=1 a= 6 b= 3 difference= 3 v=0
+mode=1 cin=1 a= 6 b= 4 difference= 2 v=0
+mode=1 cin=1 a= 6 b= 5 difference= 1 v=0
+mode=1 cin=1 a= 6 b= 6 difference= 0 v=0
+mode=1 cin=1 a= 6 b= 7 difference=31 v=0
+mode=1 cin=1 a= 6 b= 8 difference=30 v=0
+mode=1 cin=1 a= 6 b= 9 difference=29 v=0
+mode=1 cin=1 a= 6 b=10 difference=28 v=0
+mode=1 cin=1 a= 6 b=11 difference=27 v=0
+mode=1 cin=1 a= 6 b=12 difference=26 v=0
+mode=1 cin=1 a= 6 b=13 difference=25 v=0
+mode=1 cin=1 a= 6 b=14 difference=24 v=0
+mode=1 cin=1 a= 6 b=15 difference=23 v=0
+mode=1 cin=1 a= 6 b=16 difference=22 v=1
+mode=1 cin=1 a= 6 b=17 difference=21 v=1
+mode=1 cin=1 a= 6 b=18 difference=20 v=1
+mode=1 cin=1 a= 6 b=19 difference=19 v=1
+mode=1 cin=1 a= 6 b=20 difference=18 v=1
+mode=1 cin=1 a= 6 b=21 difference=17 v=1
+mode=1 cin=1 a= 6 b=22 difference=16 v=1
+mode=1 cin=1 a= 6 b=23 difference=15 v=0
+mode=1 cin=1 a= 6 b=24 difference=14 v=0
+mode=1 cin=1 a= 6 b=25 difference=13 v=0
+mode=1 cin=1 a= 6 b=26 difference=12 v=0
+mode=1 cin=1 a= 6 b=27 difference=11 v=0
+mode=1 cin=1 a= 6 b=28 difference=10 v=0
+mode=1 cin=1 a= 6 b=29 difference= 9 v=0
+mode=1 cin=1 a= 6 b=30 difference= 8 v=0
+mode=1 cin=1 a= 6 b=31 difference= 7 v=0
+mode=1 cin=1 a= 7 b= 0 difference= 7 v=0
+mode=1 cin=1 a= 7 b= 1 difference= 6 v=0
+mode=1 cin=1 a= 7 b= 2 difference= 5 v=0
+mode=1 cin=1 a= 7 b= 3 difference= 4 v=0
+mode=1 cin=1 a= 7 b= 4 difference= 3 v=0
+mode=1 cin=1 a= 7 b= 5 difference= 2 v=0
+mode=1 cin=1 a= 7 b= 6 difference= 1 v=0
+mode=1 cin=1 a= 7 b= 7 difference= 0 v=0
+mode=1 cin=1 a= 7 b= 8 difference=31 v=0
+mode=1 cin=1 a= 7 b= 9 difference=30 v=0
+mode=1 cin=1 a= 7 b=10 difference=29 v=0
+mode=1 cin=1 a= 7 b=11 difference=28 v=0
+mode=1 cin=1 a= 7 b=12 difference=27 v=0
+mode=1 cin=1 a= 7 b=13 difference=26 v=0
+mode=1 cin=1 a= 7 b=14 difference=25 v=0
+mode=1 cin=1 a= 7 b=15 difference=24 v=0
+mode=1 cin=1 a= 7 b=16 difference=23 v=1
+mode=1 cin=1 a= 7 b=17 difference=22 v=1
+mode=1 cin=1 a= 7 b=18 difference=21 v=1
+mode=1 cin=1 a= 7 b=19 difference=20 v=1
+mode=1 cin=1 a= 7 b=20 difference=19 v=1
+mode=1 cin=1 a= 7 b=21 difference=18 v=1
+mode=1 cin=1 a= 7 b=22 difference=17 v=1
+mode=1 cin=1 a= 7 b=23 difference=16 v=1
+mode=1 cin=1 a= 7 b=24 difference=15 v=0
+mode=1 cin=1 a= 7 b=25 difference=14 v=0
+mode=1 cin=1 a= 7 b=26 difference=13 v=0
+mode=1 cin=1 a= 7 b=27 difference=12 v=0
+mode=1 cin=1 a= 7 b=28 difference=11 v=0
+mode=1 cin=1 a= 7 b=29 difference=10 v=0
+mode=1 cin=1 a= 7 b=30 difference= 9 v=0
+mode=1 cin=1 a= 7 b=31 difference= 8 v=0
+mode=1 cin=1 a= 8 b= 0 difference= 8 v=0
+mode=1 cin=1 a= 8 b= 1 difference= 7 v=0
+mode=1 cin=1 a= 8 b= 2 difference= 6 v=0
+mode=1 cin=1 a= 8 b= 3 difference= 5 v=0
+mode=1 cin=1 a= 8 b= 4 difference= 4 v=0
+mode=1 cin=1 a= 8 b= 5 difference= 3 v=0
+mode=1 cin=1 a= 8 b= 6 difference= 2 v=0
+mode=1 cin=1 a= 8 b= 7 difference= 1 v=0
+mode=1 cin=1 a= 8 b= 8 difference= 0 v=0
+mode=1 cin=1 a= 8 b= 9 difference=31 v=0
+mode=1 cin=1 a= 8 b=10 difference=30 v=0
+mode=1 cin=1 a= 8 b=11 difference=29 v=0
+mode=1 cin=1 a= 8 b=12 difference=28 v=0
+mode=1 cin=1 a= 8 b=13 difference=27 v=0
+mode=1 cin=1 a= 8 b=14 difference=26 v=0
+mode=1 cin=1 a= 8 b=15 difference=25 v=0
+mode=1 cin=1 a= 8 b=16 difference=24 v=1
+mode=1 cin=1 a= 8 b=17 difference=23 v=1
+mode=1 cin=1 a= 8 b=18 difference=22 v=1
+mode=1 cin=1 a= 8 b=19 difference=21 v=1
+mode=1 cin=1 a= 8 b=20 difference=20 v=1
+mode=1 cin=1 a= 8 b=21 difference=19 v=1
+mode=1 cin=1 a= 8 b=22 difference=18 v=1
+mode=1 cin=1 a= 8 b=23 difference=17 v=1
+mode=1 cin=1 a= 8 b=24 difference=16 v=1
+mode=1 cin=1 a= 8 b=25 difference=15 v=0
+mode=1 cin=1 a= 8 b=26 difference=14 v=0
+mode=1 cin=1 a= 8 b=27 difference=13 v=0
+mode=1 cin=1 a= 8 b=28 difference=12 v=0
+mode=1 cin=1 a= 8 b=29 difference=11 v=0
+mode=1 cin=1 a= 8 b=30 difference=10 v=0
+mode=1 cin=1 a= 8 b=31 difference= 9 v=0
+mode=1 cin=1 a= 9 b= 0 difference= 9 v=0
+mode=1 cin=1 a= 9 b= 1 difference= 8 v=0
+mode=1 cin=1 a= 9 b= 2 difference= 7 v=0
+mode=1 cin=1 a= 9 b= 3 difference= 6 v=0
+mode=1 cin=1 a= 9 b= 4 difference= 5 v=0
+mode=1 cin=1 a= 9 b= 5 difference= 4 v=0
+mode=1 cin=1 a= 9 b= 6 difference= 3 v=0
+mode=1 cin=1 a= 9 b= 7 difference= 2 v=0
+mode=1 cin=1 a= 9 b= 8 difference= 1 v=0
+mode=1 cin=1 a= 9 b= 9 difference= 0 v=0
+mode=1 cin=1 a= 9 b=10 difference=31 v=0
+mode=1 cin=1 a= 9 b=11 difference=30 v=0
+mode=1 cin=1 a= 9 b=12 difference=29 v=0
+mode=1 cin=1 a= 9 b=13 difference=28 v=0
+mode=1 cin=1 a= 9 b=14 difference=27 v=0
+mode=1 cin=1 a= 9 b=15 difference=26 v=0
+mode=1 cin=1 a= 9 b=16 difference=25 v=1
+mode=1 cin=1 a= 9 b=17 difference=24 v=1
+mode=1 cin=1 a= 9 b=18 difference=23 v=1
+mode=1 cin=1 a= 9 b=19 difference=22 v=1
+mode=1 cin=1 a= 9 b=20 difference=21 v=1
+mode=1 cin=1 a= 9 b=21 difference=20 v=1
+mode=1 cin=1 a= 9 b=22 difference=19 v=1
+mode=1 cin=1 a= 9 b=23 difference=18 v=1
+mode=1 cin=1 a= 9 b=24 difference=17 v=1
+mode=1 cin=1 a= 9 b=25 difference=16 v=1
+mode=1 cin=1 a= 9 b=26 difference=15 v=0
+mode=1 cin=1 a= 9 b=27 difference=14 v=0
+mode=1 cin=1 a= 9 b=28 difference=13 v=0
+mode=1 cin=1 a= 9 b=29 difference=12 v=0
+mode=1 cin=1 a= 9 b=30 difference=11 v=0
+mode=1 cin=1 a= 9 b=31 difference=10 v=0
+mode=1 cin=1 a=10 b= 0 difference=10 v=0
+mode=1 cin=1 a=10 b= 1 difference= 9 v=0
+mode=1 cin=1 a=10 b= 2 difference= 8 v=0
+mode=1 cin=1 a=10 b= 3 difference= 7 v=0
+mode=1 cin=1 a=10 b= 4 difference= 6 v=0
+mode=1 cin=1 a=10 b= 5 difference= 5 v=0
+mode=1 cin=1 a=10 b= 6 difference= 4 v=0
+mode=1 cin=1 a=10 b= 7 difference= 3 v=0
+mode=1 cin=1 a=10 b= 8 difference= 2 v=0
+mode=1 cin=1 a=10 b= 9 difference= 1 v=0
+mode=1 cin=1 a=10 b=10 difference= 0 v=0
+mode=1 cin=1 a=10 b=11 difference=31 v=0
+mode=1 cin=1 a=10 b=12 difference=30 v=0
+mode=1 cin=1 a=10 b=13 difference=29 v=0
+mode=1 cin=1 a=10 b=14 difference=28 v=0
+mode=1 cin=1 a=10 b=15 difference=27 v=0
+mode=1 cin=1 a=10 b=16 difference=26 v=1
+mode=1 cin=1 a=10 b=17 difference=25 v=1
+mode=1 cin=1 a=10 b=18 difference=24 v=1
+mode=1 cin=1 a=10 b=19 difference=23 v=1
+mode=1 cin=1 a=10 b=20 difference=22 v=1
+mode=1 cin=1 a=10 b=21 difference=21 v=1
+mode=1 cin=1 a=10 b=22 difference=20 v=1
+mode=1 cin=1 a=10 b=23 difference=19 v=1
+mode=1 cin=1 a=10 b=24 difference=18 v=1
+mode=1 cin=1 a=10 b=25 difference=17 v=1
+mode=1 cin=1 a=10 b=26 difference=16 v=1
+mode=1 cin=1 a=10 b=27 difference=15 v=0
+mode=1 cin=1 a=10 b=28 difference=14 v=0
+mode=1 cin=1 a=10 b=29 difference=13 v=0
+mode=1 cin=1 a=10 b=30 difference=12 v=0
+mode=1 cin=1 a=10 b=31 difference=11 v=0
+mode=1 cin=1 a=11 b= 0 difference=11 v=0
+mode=1 cin=1 a=11 b= 1 difference=10 v=0
+mode=1 cin=1 a=11 b= 2 difference= 9 v=0
+mode=1 cin=1 a=11 b= 3 difference= 8 v=0
+mode=1 cin=1 a=11 b= 4 difference= 7 v=0
+mode=1 cin=1 a=11 b= 5 difference= 6 v=0
+mode=1 cin=1 a=11 b= 6 difference= 5 v=0
+mode=1 cin=1 a=11 b= 7 difference= 4 v=0
+mode=1 cin=1 a=11 b= 8 difference= 3 v=0
+mode=1 cin=1 a=11 b= 9 difference= 2 v=0
+mode=1 cin=1 a=11 b=10 difference= 1 v=0
+mode=1 cin=1 a=11 b=11 difference= 0 v=0
+mode=1 cin=1 a=11 b=12 difference=31 v=0
+mode=1 cin=1 a=11 b=13 difference=30 v=0
+mode=1 cin=1 a=11 b=14 difference=29 v=0
+mode=1 cin=1 a=11 b=15 difference=28 v=0
+mode=1 cin=1 a=11 b=16 difference=27 v=1
+mode=1 cin=1 a=11 b=17 difference=26 v=1
+mode=1 cin=1 a=11 b=18 difference=25 v=1
+mode=1 cin=1 a=11 b=19 difference=24 v=1
+mode=1 cin=1 a=11 b=20 difference=23 v=1
+mode=1 cin=1 a=11 b=21 difference=22 v=1
+mode=1 cin=1 a=11 b=22 difference=21 v=1
+mode=1 cin=1 a=11 b=23 difference=20 v=1
+mode=1 cin=1 a=11 b=24 difference=19 v=1
+mode=1 cin=1 a=11 b=25 difference=18 v=1
+mode=1 cin=1 a=11 b=26 difference=17 v=1
+mode=1 cin=1 a=11 b=27 difference=16 v=1
+mode=1 cin=1 a=11 b=28 difference=15 v=0
+mode=1 cin=1 a=11 b=29 difference=14 v=0
+mode=1 cin=1 a=11 b=30 difference=13 v=0
+mode=1 cin=1 a=11 b=31 difference=12 v=0
+mode=1 cin=1 a=12 b= 0 difference=12 v=0
+mode=1 cin=1 a=12 b= 1 difference=11 v=0
+mode=1 cin=1 a=12 b= 2 difference=10 v=0
+mode=1 cin=1 a=12 b= 3 difference= 9 v=0
+mode=1 cin=1 a=12 b= 4 difference= 8 v=0
+mode=1 cin=1 a=12 b= 5 difference= 7 v=0
+mode=1 cin=1 a=12 b= 6 difference= 6 v=0
+mode=1 cin=1 a=12 b= 7 difference= 5 v=0
+mode=1 cin=1 a=12 b= 8 difference= 4 v=0
+mode=1 cin=1 a=12 b= 9 difference= 3 v=0
+mode=1 cin=1 a=12 b=10 difference= 2 v=0
+mode=1 cin=1 a=12 b=11 difference= 1 v=0
+mode=1 cin=1 a=12 b=12 difference= 0 v=0
+mode=1 cin=1 a=12 b=13 difference=31 v=0
+mode=1 cin=1 a=12 b=14 difference=30 v=0
+mode=1 cin=1 a=12 b=15 difference=29 v=0
+mode=1 cin=1 a=12 b=16 difference=28 v=1
+mode=1 cin=1 a=12 b=17 difference=27 v=1
+mode=1 cin=1 a=12 b=18 difference=26 v=1
+mode=1 cin=1 a=12 b=19 difference=25 v=1
+mode=1 cin=1 a=12 b=20 difference=24 v=1
+mode=1 cin=1 a=12 b=21 difference=23 v=1
+mode=1 cin=1 a=12 b=22 difference=22 v=1
+mode=1 cin=1 a=12 b=23 difference=21 v=1
+mode=1 cin=1 a=12 b=24 difference=20 v=1
+mode=1 cin=1 a=12 b=25 difference=19 v=1
+mode=1 cin=1 a=12 b=26 difference=18 v=1
+mode=1 cin=1 a=12 b=27 difference=17 v=1
+mode=1 cin=1 a=12 b=28 difference=16 v=1
+mode=1 cin=1 a=12 b=29 difference=15 v=0
+mode=1 cin=1 a=12 b=30 difference=14 v=0
+mode=1 cin=1 a=12 b=31 difference=13 v=0
+mode=1 cin=1 a=13 b= 0 difference=13 v=0
+mode=1 cin=1 a=13 b= 1 difference=12 v=0
+mode=1 cin=1 a=13 b= 2 difference=11 v=0
+mode=1 cin=1 a=13 b= 3 difference=10 v=0
+mode=1 cin=1 a=13 b= 4 difference= 9 v=0
+mode=1 cin=1 a=13 b= 5 difference= 8 v=0
+mode=1 cin=1 a=13 b= 6 difference= 7 v=0
+mode=1 cin=1 a=13 b= 7 difference= 6 v=0
+mode=1 cin=1 a=13 b= 8 difference= 5 v=0
+mode=1 cin=1 a=13 b= 9 difference= 4 v=0
+mode=1 cin=1 a=13 b=10 difference= 3 v=0
+mode=1 cin=1 a=13 b=11 difference= 2 v=0
+mode=1 cin=1 a=13 b=12 difference= 1 v=0
+mode=1 cin=1 a=13 b=13 difference= 0 v=0
+mode=1 cin=1 a=13 b=14 difference=31 v=0
+mode=1 cin=1 a=13 b=15 difference=30 v=0
+mode=1 cin=1 a=13 b=16 difference=29 v=1
+mode=1 cin=1 a=13 b=17 difference=28 v=1
+mode=1 cin=1 a=13 b=18 difference=27 v=1
+mode=1 cin=1 a=13 b=19 difference=26 v=1
+mode=1 cin=1 a=13 b=20 difference=25 v=1
+mode=1 cin=1 a=13 b=21 difference=24 v=1
+mode=1 cin=1 a=13 b=22 difference=23 v=1
+mode=1 cin=1 a=13 b=23 difference=22 v=1
+mode=1 cin=1 a=13 b=24 difference=21 v=1
+mode=1 cin=1 a=13 b=25 difference=20 v=1
+mode=1 cin=1 a=13 b=26 difference=19 v=1
+mode=1 cin=1 a=13 b=27 difference=18 v=1
+mode=1 cin=1 a=13 b=28 difference=17 v=1
+mode=1 cin=1 a=13 b=29 difference=16 v=1
+mode=1 cin=1 a=13 b=30 difference=15 v=0
+mode=1 cin=1 a=13 b=31 difference=14 v=0
+mode=1 cin=1 a=14 b= 0 difference=14 v=0
+mode=1 cin=1 a=14 b= 1 difference=13 v=0
+mode=1 cin=1 a=14 b= 2 difference=12 v=0
+mode=1 cin=1 a=14 b= 3 difference=11 v=0
+mode=1 cin=1 a=14 b= 4 difference=10 v=0
+mode=1 cin=1 a=14 b= 5 difference= 9 v=0
+mode=1 cin=1 a=14 b= 6 difference= 8 v=0
+mode=1 cin=1 a=14 b= 7 difference= 7 v=0
+mode=1 cin=1 a=14 b= 8 difference= 6 v=0
+mode=1 cin=1 a=14 b= 9 difference= 5 v=0
+mode=1 cin=1 a=14 b=10 difference= 4 v=0
+mode=1 cin=1 a=14 b=11 difference= 3 v=0
+mode=1 cin=1 a=14 b=12 difference= 2 v=0
+mode=1 cin=1 a=14 b=13 difference= 1 v=0
+mode=1 cin=1 a=14 b=14 difference= 0 v=0
+mode=1 cin=1 a=14 b=15 difference=31 v=0
+mode=1 cin=1 a=14 b=16 difference=30 v=1
+mode=1 cin=1 a=14 b=17 difference=29 v=1
+mode=1 cin=1 a=14 b=18 difference=28 v=1
+mode=1 cin=1 a=14 b=19 difference=27 v=1
+mode=1 cin=1 a=14 b=20 difference=26 v=1
+mode=1 cin=1 a=14 b=21 difference=25 v=1
+mode=1 cin=1 a=14 b=22 difference=24 v=1
+mode=1 cin=1 a=14 b=23 difference=23 v=1
+mode=1 cin=1 a=14 b=24 difference=22 v=1
+mode=1 cin=1 a=14 b=25 difference=21 v=1
+mode=1 cin=1 a=14 b=26 difference=20 v=1
+mode=1 cin=1 a=14 b=27 difference=19 v=1
+mode=1 cin=1 a=14 b=28 difference=18 v=1
+mode=1 cin=1 a=14 b=29 difference=17 v=1
+mode=1 cin=1 a=14 b=30 difference=16 v=1
+mode=1 cin=1 a=14 b=31 difference=15 v=0
+mode=1 cin=1 a=15 b= 0 difference=15 v=0
+mode=1 cin=1 a=15 b= 1 difference=14 v=0
+mode=1 cin=1 a=15 b= 2 difference=13 v=0
+mode=1 cin=1 a=15 b= 3 difference=12 v=0
+mode=1 cin=1 a=15 b= 4 difference=11 v=0
+mode=1 cin=1 a=15 b= 5 difference=10 v=0
+mode=1 cin=1 a=15 b= 6 difference= 9 v=0
+mode=1 cin=1 a=15 b= 7 difference= 8 v=0
+mode=1 cin=1 a=15 b= 8 difference= 7 v=0
+mode=1 cin=1 a=15 b= 9 difference= 6 v=0
+mode=1 cin=1 a=15 b=10 difference= 5 v=0
+mode=1 cin=1 a=15 b=11 difference= 4 v=0
+mode=1 cin=1 a=15 b=12 difference= 3 v=0
+mode=1 cin=1 a=15 b=13 difference= 2 v=0
+mode=1 cin=1 a=15 b=14 difference= 1 v=0
+mode=1 cin=1 a=15 b=15 difference= 0 v=0
+mode=1 cin=1 a=15 b=16 difference=31 v=1
+mode=1 cin=1 a=15 b=17 difference=30 v=1
+mode=1 cin=1 a=15 b=18 difference=29 v=1
+mode=1 cin=1 a=15 b=19 difference=28 v=1
+mode=1 cin=1 a=15 b=20 difference=27 v=1
+mode=1 cin=1 a=15 b=21 difference=26 v=1
+mode=1 cin=1 a=15 b=22 difference=25 v=1
+mode=1 cin=1 a=15 b=23 difference=24 v=1
+mode=1 cin=1 a=15 b=24 difference=23 v=1
+mode=1 cin=1 a=15 b=25 difference=22 v=1
+mode=1 cin=1 a=15 b=26 difference=21 v=1
+mode=1 cin=1 a=15 b=27 difference=20 v=1
+mode=1 cin=1 a=15 b=28 difference=19 v=1
+mode=1 cin=1 a=15 b=29 difference=18 v=1
+mode=1 cin=1 a=15 b=30 difference=17 v=1
+mode=1 cin=1 a=15 b=31 difference=16 v=1
+mode=1 cin=1 a=16 b= 0 difference=16 v=0
+mode=1 cin=1 a=16 b= 1 difference=15 v=1
+mode=1 cin=1 a=16 b= 2 difference=14 v=1
+mode=1 cin=1 a=16 b= 3 difference=13 v=1
+mode=1 cin=1 a=16 b= 4 difference=12 v=1
+mode=1 cin=1 a=16 b= 5 difference=11 v=1
+mode=1 cin=1 a=16 b= 6 difference=10 v=1
+mode=1 cin=1 a=16 b= 7 difference= 9 v=1
+mode=1 cin=1 a=16 b= 8 difference= 8 v=1
+mode=1 cin=1 a=16 b= 9 difference= 7 v=1
+mode=1 cin=1 a=16 b=10 difference= 6 v=1
+mode=1 cin=1 a=16 b=11 difference= 5 v=1
+mode=1 cin=1 a=16 b=12 difference= 4 v=1
+mode=1 cin=1 a=16 b=13 difference= 3 v=1
+mode=1 cin=1 a=16 b=14 difference= 2 v=1
+mode=1 cin=1 a=16 b=15 difference= 1 v=1
+mode=1 cin=1 a=16 b=16 difference= 0 v=0
+mode=1 cin=1 a=16 b=17 difference=31 v=0
+mode=1 cin=1 a=16 b=18 difference=30 v=0
+mode=1 cin=1 a=16 b=19 difference=29 v=0
+mode=1 cin=1 a=16 b=20 difference=28 v=0
+mode=1 cin=1 a=16 b=21 difference=27 v=0
+mode=1 cin=1 a=16 b=22 difference=26 v=0
+mode=1 cin=1 a=16 b=23 difference=25 v=0
+mode=1 cin=1 a=16 b=24 difference=24 v=0
+mode=1 cin=1 a=16 b=25 difference=23 v=0
+mode=1 cin=1 a=16 b=26 difference=22 v=0
+mode=1 cin=1 a=16 b=27 difference=21 v=0
+mode=1 cin=1 a=16 b=28 difference=20 v=0
+mode=1 cin=1 a=16 b=29 difference=19 v=0
+mode=1 cin=1 a=16 b=30 difference=18 v=0
+mode=1 cin=1 a=16 b=31 difference=17 v=0
+mode=1 cin=1 a=17 b= 0 difference=17 v=0
+mode=1 cin=1 a=17 b= 1 difference=16 v=0
+mode=1 cin=1 a=17 b= 2 difference=15 v=1
+mode=1 cin=1 a=17 b= 3 difference=14 v=1
+mode=1 cin=1 a=17 b= 4 difference=13 v=1
+mode=1 cin=1 a=17 b= 5 difference=12 v=1
+mode=1 cin=1 a=17 b= 6 difference=11 v=1
+mode=1 cin=1 a=17 b= 7 difference=10 v=1
+mode=1 cin=1 a=17 b= 8 difference= 9 v=1
+mode=1 cin=1 a=17 b= 9 difference= 8 v=1
+mode=1 cin=1 a=17 b=10 difference= 7 v=1
+mode=1 cin=1 a=17 b=11 difference= 6 v=1
+mode=1 cin=1 a=17 b=12 difference= 5 v=1
+mode=1 cin=1 a=17 b=13 difference= 4 v=1
+mode=1 cin=1 a=17 b=14 difference= 3 v=1
+mode=1 cin=1 a=17 b=15 difference= 2 v=1
+mode=1 cin=1 a=17 b=16 difference= 1 v=0
+mode=1 cin=1 a=17 b=17 difference= 0 v=0
+mode=1 cin=1 a=17 b=18 difference=31 v=0
+mode=1 cin=1 a=17 b=19 difference=30 v=0
+mode=1 cin=1 a=17 b=20 difference=29 v=0
+mode=1 cin=1 a=17 b=21 difference=28 v=0
+mode=1 cin=1 a=17 b=22 difference=27 v=0
+mode=1 cin=1 a=17 b=23 difference=26 v=0
+mode=1 cin=1 a=17 b=24 difference=25 v=0
+mode=1 cin=1 a=17 b=25 difference=24 v=0
+mode=1 cin=1 a=17 b=26 difference=23 v=0
+mode=1 cin=1 a=17 b=27 difference=22 v=0
+mode=1 cin=1 a=17 b=28 difference=21 v=0
+mode=1 cin=1 a=17 b=29 difference=20 v=0
+mode=1 cin=1 a=17 b=30 difference=19 v=0
+mode=1 cin=1 a=17 b=31 difference=18 v=0
+mode=1 cin=1 a=18 b= 0 difference=18 v=0
+mode=1 cin=1 a=18 b= 1 difference=17 v=0
+mode=1 cin=1 a=18 b= 2 difference=16 v=0
+mode=1 cin=1 a=18 b= 3 difference=15 v=1
+mode=1 cin=1 a=18 b= 4 difference=14 v=1
+mode=1 cin=1 a=18 b= 5 difference=13 v=1
+mode=1 cin=1 a=18 b= 6 difference=12 v=1
+mode=1 cin=1 a=18 b= 7 difference=11 v=1
+mode=1 cin=1 a=18 b= 8 difference=10 v=1
+mode=1 cin=1 a=18 b= 9 difference= 9 v=1
+mode=1 cin=1 a=18 b=10 difference= 8 v=1
+mode=1 cin=1 a=18 b=11 difference= 7 v=1
+mode=1 cin=1 a=18 b=12 difference= 6 v=1
+mode=1 cin=1 a=18 b=13 difference= 5 v=1
+mode=1 cin=1 a=18 b=14 difference= 4 v=1
+mode=1 cin=1 a=18 b=15 difference= 3 v=1
+mode=1 cin=1 a=18 b=16 difference= 2 v=0
+mode=1 cin=1 a=18 b=17 difference= 1 v=0
+mode=1 cin=1 a=18 b=18 difference= 0 v=0
+mode=1 cin=1 a=18 b=19 difference=31 v=0
+mode=1 cin=1 a=18 b=20 difference=30 v=0
+mode=1 cin=1 a=18 b=21 difference=29 v=0
+mode=1 cin=1 a=18 b=22 difference=28 v=0
+mode=1 cin=1 a=18 b=23 difference=27 v=0
+mode=1 cin=1 a=18 b=24 difference=26 v=0
+mode=1 cin=1 a=18 b=25 difference=25 v=0
+mode=1 cin=1 a=18 b=26 difference=24 v=0
+mode=1 cin=1 a=18 b=27 difference=23 v=0
+mode=1 cin=1 a=18 b=28 difference=22 v=0
+mode=1 cin=1 a=18 b=29 difference=21 v=0
+mode=1 cin=1 a=18 b=30 difference=20 v=0
+mode=1 cin=1 a=18 b=31 difference=19 v=0
+mode=1 cin=1 a=19 b= 0 difference=19 v=0
+mode=1 cin=1 a=19 b= 1 difference=18 v=0
+mode=1 cin=1 a=19 b= 2 difference=17 v=0
+mode=1 cin=1 a=19 b= 3 difference=16 v=0
+mode=1 cin=1 a=19 b= 4 difference=15 v=1
+mode=1 cin=1 a=19 b= 5 difference=14 v=1
+mode=1 cin=1 a=19 b= 6 difference=13 v=1
+mode=1 cin=1 a=19 b= 7 difference=12 v=1
+mode=1 cin=1 a=19 b= 8 difference=11 v=1
+mode=1 cin=1 a=19 b= 9 difference=10 v=1
+mode=1 cin=1 a=19 b=10 difference= 9 v=1
+mode=1 cin=1 a=19 b=11 difference= 8 v=1
+mode=1 cin=1 a=19 b=12 difference= 7 v=1
+mode=1 cin=1 a=19 b=13 difference= 6 v=1
+mode=1 cin=1 a=19 b=14 difference= 5 v=1
+mode=1 cin=1 a=19 b=15 difference= 4 v=1
+mode=1 cin=1 a=19 b=16 difference= 3 v=0
+mode=1 cin=1 a=19 b=17 difference= 2 v=0
+mode=1 cin=1 a=19 b=18 difference= 1 v=0
+mode=1 cin=1 a=19 b=19 difference= 0 v=0
+mode=1 cin=1 a=19 b=20 difference=31 v=0
+mode=1 cin=1 a=19 b=21 difference=30 v=0
+mode=1 cin=1 a=19 b=22 difference=29 v=0
+mode=1 cin=1 a=19 b=23 difference=28 v=0
+mode=1 cin=1 a=19 b=24 difference=27 v=0
+mode=1 cin=1 a=19 b=25 difference=26 v=0
+mode=1 cin=1 a=19 b=26 difference=25 v=0
+mode=1 cin=1 a=19 b=27 difference=24 v=0
+mode=1 cin=1 a=19 b=28 difference=23 v=0
+mode=1 cin=1 a=19 b=29 difference=22 v=0
+mode=1 cin=1 a=19 b=30 difference=21 v=0
+mode=1 cin=1 a=19 b=31 difference=20 v=0
+mode=1 cin=1 a=20 b= 0 difference=20 v=0
+mode=1 cin=1 a=20 b= 1 difference=19 v=0
+mode=1 cin=1 a=20 b= 2 difference=18 v=0
+mode=1 cin=1 a=20 b= 3 difference=17 v=0
+mode=1 cin=1 a=20 b= 4 difference=16 v=0
+mode=1 cin=1 a=20 b= 5 difference=15 v=1
+mode=1 cin=1 a=20 b= 6 difference=14 v=1
+mode=1 cin=1 a=20 b= 7 difference=13 v=1
+mode=1 cin=1 a=20 b= 8 difference=12 v=1
+mode=1 cin=1 a=20 b= 9 difference=11 v=1
+mode=1 cin=1 a=20 b=10 difference=10 v=1
+mode=1 cin=1 a=20 b=11 difference= 9 v=1
+mode=1 cin=1 a=20 b=12 difference= 8 v=1
+mode=1 cin=1 a=20 b=13 difference= 7 v=1
+mode=1 cin=1 a=20 b=14 difference= 6 v=1
+mode=1 cin=1 a=20 b=15 difference= 5 v=1
+mode=1 cin=1 a=20 b=16 difference= 4 v=0
+mode=1 cin=1 a=20 b=17 difference= 3 v=0
+mode=1 cin=1 a=20 b=18 difference= 2 v=0
+mode=1 cin=1 a=20 b=19 difference= 1 v=0
+mode=1 cin=1 a=20 b=20 difference= 0 v=0
+mode=1 cin=1 a=20 b=21 difference=31 v=0
+mode=1 cin=1 a=20 b=22 difference=30 v=0
+mode=1 cin=1 a=20 b=23 difference=29 v=0
+mode=1 cin=1 a=20 b=24 difference=28 v=0
+mode=1 cin=1 a=20 b=25 difference=27 v=0
+mode=1 cin=1 a=20 b=26 difference=26 v=0
+mode=1 cin=1 a=20 b=27 difference=25 v=0
+mode=1 cin=1 a=20 b=28 difference=24 v=0
+mode=1 cin=1 a=20 b=29 difference=23 v=0
+mode=1 cin=1 a=20 b=30 difference=22 v=0
+mode=1 cin=1 a=20 b=31 difference=21 v=0
+mode=1 cin=1 a=21 b= 0 difference=21 v=0
+mode=1 cin=1 a=21 b= 1 difference=20 v=0
+mode=1 cin=1 a=21 b= 2 difference=19 v=0
+mode=1 cin=1 a=21 b= 3 difference=18 v=0
+mode=1 cin=1 a=21 b= 4 difference=17 v=0
+mode=1 cin=1 a=21 b= 5 difference=16 v=0
+mode=1 cin=1 a=21 b= 6 difference=15 v=1
+mode=1 cin=1 a=21 b= 7 difference=14 v=1
+mode=1 cin=1 a=21 b= 8 difference=13 v=1
+mode=1 cin=1 a=21 b= 9 difference=12 v=1
+mode=1 cin=1 a=21 b=10 difference=11 v=1
+mode=1 cin=1 a=21 b=11 difference=10 v=1
+mode=1 cin=1 a=21 b=12 difference= 9 v=1
+mode=1 cin=1 a=21 b=13 difference= 8 v=1
+mode=1 cin=1 a=21 b=14 difference= 7 v=1
+mode=1 cin=1 a=21 b=15 difference= 6 v=1
+mode=1 cin=1 a=21 b=16 difference= 5 v=0
+mode=1 cin=1 a=21 b=17 difference= 4 v=0
+mode=1 cin=1 a=21 b=18 difference= 3 v=0
+mode=1 cin=1 a=21 b=19 difference= 2 v=0
+mode=1 cin=1 a=21 b=20 difference= 1 v=0
+mode=1 cin=1 a=21 b=21 difference= 0 v=0
+mode=1 cin=1 a=21 b=22 difference=31 v=0
+mode=1 cin=1 a=21 b=23 difference=30 v=0
+mode=1 cin=1 a=21 b=24 difference=29 v=0
+mode=1 cin=1 a=21 b=25 difference=28 v=0
+mode=1 cin=1 a=21 b=26 difference=27 v=0
+mode=1 cin=1 a=21 b=27 difference=26 v=0
+mode=1 cin=1 a=21 b=28 difference=25 v=0
+mode=1 cin=1 a=21 b=29 difference=24 v=0
+mode=1 cin=1 a=21 b=30 difference=23 v=0
+mode=1 cin=1 a=21 b=31 difference=22 v=0
+mode=1 cin=1 a=22 b= 0 difference=22 v=0
+mode=1 cin=1 a=22 b= 1 difference=21 v=0
+mode=1 cin=1 a=22 b= 2 difference=20 v=0
+mode=1 cin=1 a=22 b= 3 difference=19 v=0
+mode=1 cin=1 a=22 b= 4 difference=18 v=0
+mode=1 cin=1 a=22 b= 5 difference=17 v=0
+mode=1 cin=1 a=22 b= 6 difference=16 v=0
+mode=1 cin=1 a=22 b= 7 difference=15 v=1
+mode=1 cin=1 a=22 b= 8 difference=14 v=1
+mode=1 cin=1 a=22 b= 9 difference=13 v=1
+mode=1 cin=1 a=22 b=10 difference=12 v=1
+mode=1 cin=1 a=22 b=11 difference=11 v=1
+mode=1 cin=1 a=22 b=12 difference=10 v=1
+mode=1 cin=1 a=22 b=13 difference= 9 v=1
+mode=1 cin=1 a=22 b=14 difference= 8 v=1
+mode=1 cin=1 a=22 b=15 difference= 7 v=1
+mode=1 cin=1 a=22 b=16 difference= 6 v=0
+mode=1 cin=1 a=22 b=17 difference= 5 v=0
+mode=1 cin=1 a=22 b=18 difference= 4 v=0
+mode=1 cin=1 a=22 b=19 difference= 3 v=0
+mode=1 cin=1 a=22 b=20 difference= 2 v=0
+mode=1 cin=1 a=22 b=21 difference= 1 v=0
+mode=1 cin=1 a=22 b=22 difference= 0 v=0
+mode=1 cin=1 a=22 b=23 difference=31 v=0
+mode=1 cin=1 a=22 b=24 difference=30 v=0
+mode=1 cin=1 a=22 b=25 difference=29 v=0
+mode=1 cin=1 a=22 b=26 difference=28 v=0
+mode=1 cin=1 a=22 b=27 difference=27 v=0
+mode=1 cin=1 a=22 b=28 difference=26 v=0
+mode=1 cin=1 a=22 b=29 difference=25 v=0
+mode=1 cin=1 a=22 b=30 difference=24 v=0
+mode=1 cin=1 a=22 b=31 difference=23 v=0
+mode=1 cin=1 a=23 b= 0 difference=23 v=0
+mode=1 cin=1 a=23 b= 1 difference=22 v=0
+mode=1 cin=1 a=23 b= 2 difference=21 v=0
+mode=1 cin=1 a=23 b= 3 difference=20 v=0
+mode=1 cin=1 a=23 b= 4 difference=19 v=0
+mode=1 cin=1 a=23 b= 5 difference=18 v=0
+mode=1 cin=1 a=23 b= 6 difference=17 v=0
+mode=1 cin=1 a=23 b= 7 difference=16 v=0
+mode=1 cin=1 a=23 b= 8 difference=15 v=1
+mode=1 cin=1 a=23 b= 9 difference=14 v=1
+mode=1 cin=1 a=23 b=10 difference=13 v=1
+mode=1 cin=1 a=23 b=11 difference=12 v=1
+mode=1 cin=1 a=23 b=12 difference=11 v=1
+mode=1 cin=1 a=23 b=13 difference=10 v=1
+mode=1 cin=1 a=23 b=14 difference= 9 v=1
+mode=1 cin=1 a=23 b=15 difference= 8 v=1
+mode=1 cin=1 a=23 b=16 difference= 7 v=0
+mode=1 cin=1 a=23 b=17 difference= 6 v=0
+mode=1 cin=1 a=23 b=18 difference= 5 v=0
+mode=1 cin=1 a=23 b=19 difference= 4 v=0
+mode=1 cin=1 a=23 b=20 difference= 3 v=0
+mode=1 cin=1 a=23 b=21 difference= 2 v=0
+mode=1 cin=1 a=23 b=22 difference= 1 v=0
+mode=1 cin=1 a=23 b=23 difference= 0 v=0
+mode=1 cin=1 a=23 b=24 difference=31 v=0
+mode=1 cin=1 a=23 b=25 difference=30 v=0
+mode=1 cin=1 a=23 b=26 difference=29 v=0
+mode=1 cin=1 a=23 b=27 difference=28 v=0
+mode=1 cin=1 a=23 b=28 difference=27 v=0
+mode=1 cin=1 a=23 b=29 difference=26 v=0
+mode=1 cin=1 a=23 b=30 difference=25 v=0
+mode=1 cin=1 a=23 b=31 difference=24 v=0
+mode=1 cin=1 a=24 b= 0 difference=24 v=0
+mode=1 cin=1 a=24 b= 1 difference=23 v=0
+mode=1 cin=1 a=24 b= 2 difference=22 v=0
+mode=1 cin=1 a=24 b= 3 difference=21 v=0
+mode=1 cin=1 a=24 b= 4 difference=20 v=0
+mode=1 cin=1 a=24 b= 5 difference=19 v=0
+mode=1 cin=1 a=24 b= 6 difference=18 v=0
+mode=1 cin=1 a=24 b= 7 difference=17 v=0
+mode=1 cin=1 a=24 b= 8 difference=16 v=0
+mode=1 cin=1 a=24 b= 9 difference=15 v=1
+mode=1 cin=1 a=24 b=10 difference=14 v=1
+mode=1 cin=1 a=24 b=11 difference=13 v=1
+mode=1 cin=1 a=24 b=12 difference=12 v=1
+mode=1 cin=1 a=24 b=13 difference=11 v=1
+mode=1 cin=1 a=24 b=14 difference=10 v=1
+mode=1 cin=1 a=24 b=15 difference= 9 v=1
+mode=1 cin=1 a=24 b=16 difference= 8 v=0
+mode=1 cin=1 a=24 b=17 difference= 7 v=0
+mode=1 cin=1 a=24 b=18 difference= 6 v=0
+mode=1 cin=1 a=24 b=19 difference= 5 v=0
+mode=1 cin=1 a=24 b=20 difference= 4 v=0
+mode=1 cin=1 a=24 b=21 difference= 3 v=0
+mode=1 cin=1 a=24 b=22 difference= 2 v=0
+mode=1 cin=1 a=24 b=23 difference= 1 v=0
+mode=1 cin=1 a=24 b=24 difference= 0 v=0
+mode=1 cin=1 a=24 b=25 difference=31 v=0
+mode=1 cin=1 a=24 b=26 difference=30 v=0
+mode=1 cin=1 a=24 b=27 difference=29 v=0
+mode=1 cin=1 a=24 b=28 difference=28 v=0
+mode=1 cin=1 a=24 b=29 difference=27 v=0
+mode=1 cin=1 a=24 b=30 difference=26 v=0
+mode=1 cin=1 a=24 b=31 difference=25 v=0
+mode=1 cin=1 a=25 b= 0 difference=25 v=0
+mode=1 cin=1 a=25 b= 1 difference=24 v=0
+mode=1 cin=1 a=25 b= 2 difference=23 v=0
+mode=1 cin=1 a=25 b= 3 difference=22 v=0
+mode=1 cin=1 a=25 b= 4 difference=21 v=0
+mode=1 cin=1 a=25 b= 5 difference=20 v=0
+mode=1 cin=1 a=25 b= 6 difference=19 v=0
+mode=1 cin=1 a=25 b= 7 difference=18 v=0
+mode=1 cin=1 a=25 b= 8 difference=17 v=0
+mode=1 cin=1 a=25 b= 9 difference=16 v=0
+mode=1 cin=1 a=25 b=10 difference=15 v=1
+mode=1 cin=1 a=25 b=11 difference=14 v=1
+mode=1 cin=1 a=25 b=12 difference=13 v=1
+mode=1 cin=1 a=25 b=13 difference=12 v=1
+mode=1 cin=1 a=25 b=14 difference=11 v=1
+mode=1 cin=1 a=25 b=15 difference=10 v=1
+mode=1 cin=1 a=25 b=16 difference= 9 v=0
+mode=1 cin=1 a=25 b=17 difference= 8 v=0
+mode=1 cin=1 a=25 b=18 difference= 7 v=0
+mode=1 cin=1 a=25 b=19 difference= 6 v=0
+mode=1 cin=1 a=25 b=20 difference= 5 v=0
+mode=1 cin=1 a=25 b=21 difference= 4 v=0
+mode=1 cin=1 a=25 b=22 difference= 3 v=0
+mode=1 cin=1 a=25 b=23 difference= 2 v=0
+mode=1 cin=1 a=25 b=24 difference= 1 v=0
+mode=1 cin=1 a=25 b=25 difference= 0 v=0
+mode=1 cin=1 a=25 b=26 difference=31 v=0
+mode=1 cin=1 a=25 b=27 difference=30 v=0
+mode=1 cin=1 a=25 b=28 difference=29 v=0
+mode=1 cin=1 a=25 b=29 difference=28 v=0
+mode=1 cin=1 a=25 b=30 difference=27 v=0
+mode=1 cin=1 a=25 b=31 difference=26 v=0
+mode=1 cin=1 a=26 b= 0 difference=26 v=0
+mode=1 cin=1 a=26 b= 1 difference=25 v=0
+mode=1 cin=1 a=26 b= 2 difference=24 v=0
+mode=1 cin=1 a=26 b= 3 difference=23 v=0
+mode=1 cin=1 a=26 b= 4 difference=22 v=0
+mode=1 cin=1 a=26 b= 5 difference=21 v=0
+mode=1 cin=1 a=26 b= 6 difference=20 v=0
+mode=1 cin=1 a=26 b= 7 difference=19 v=0
+mode=1 cin=1 a=26 b= 8 difference=18 v=0
+mode=1 cin=1 a=26 b= 9 difference=17 v=0
+mode=1 cin=1 a=26 b=10 difference=16 v=0
+mode=1 cin=1 a=26 b=11 difference=15 v=1
+mode=1 cin=1 a=26 b=12 difference=14 v=1
+mode=1 cin=1 a=26 b=13 difference=13 v=1
+mode=1 cin=1 a=26 b=14 difference=12 v=1
+mode=1 cin=1 a=26 b=15 difference=11 v=1
+mode=1 cin=1 a=26 b=16 difference=10 v=0
+mode=1 cin=1 a=26 b=17 difference= 9 v=0
+mode=1 cin=1 a=26 b=18 difference= 8 v=0
+mode=1 cin=1 a=26 b=19 difference= 7 v=0
+mode=1 cin=1 a=26 b=20 difference= 6 v=0
+mode=1 cin=1 a=26 b=21 difference= 5 v=0
+mode=1 cin=1 a=26 b=22 difference= 4 v=0
+mode=1 cin=1 a=26 b=23 difference= 3 v=0
+mode=1 cin=1 a=26 b=24 difference= 2 v=0
+mode=1 cin=1 a=26 b=25 difference= 1 v=0
+mode=1 cin=1 a=26 b=26 difference= 0 v=0
+mode=1 cin=1 a=26 b=27 difference=31 v=0
+mode=1 cin=1 a=26 b=28 difference=30 v=0
+mode=1 cin=1 a=26 b=29 difference=29 v=0
+mode=1 cin=1 a=26 b=30 difference=28 v=0
+mode=1 cin=1 a=26 b=31 difference=27 v=0
+mode=1 cin=1 a=27 b= 0 difference=27 v=0
+mode=1 cin=1 a=27 b= 1 difference=26 v=0
+mode=1 cin=1 a=27 b= 2 difference=25 v=0
+mode=1 cin=1 a=27 b= 3 difference=24 v=0
+mode=1 cin=1 a=27 b= 4 difference=23 v=0
+mode=1 cin=1 a=27 b= 5 difference=22 v=0
+mode=1 cin=1 a=27 b= 6 difference=21 v=0
+mode=1 cin=1 a=27 b= 7 difference=20 v=0
+mode=1 cin=1 a=27 b= 8 difference=19 v=0
+mode=1 cin=1 a=27 b= 9 difference=18 v=0
+mode=1 cin=1 a=27 b=10 difference=17 v=0
+mode=1 cin=1 a=27 b=11 difference=16 v=0
+mode=1 cin=1 a=27 b=12 difference=15 v=1
+mode=1 cin=1 a=27 b=13 difference=14 v=1
+mode=1 cin=1 a=27 b=14 difference=13 v=1
+mode=1 cin=1 a=27 b=15 difference=12 v=1
+mode=1 cin=1 a=27 b=16 difference=11 v=0
+mode=1 cin=1 a=27 b=17 difference=10 v=0
+mode=1 cin=1 a=27 b=18 difference= 9 v=0
+mode=1 cin=1 a=27 b=19 difference= 8 v=0
+mode=1 cin=1 a=27 b=20 difference= 7 v=0
+mode=1 cin=1 a=27 b=21 difference= 6 v=0
+mode=1 cin=1 a=27 b=22 difference= 5 v=0
+mode=1 cin=1 a=27 b=23 difference= 4 v=0
+mode=1 cin=1 a=27 b=24 difference= 3 v=0
+mode=1 cin=1 a=27 b=25 difference= 2 v=0
+mode=1 cin=1 a=27 b=26 difference= 1 v=0
+mode=1 cin=1 a=27 b=27 difference= 0 v=0
+mode=1 cin=1 a=27 b=28 difference=31 v=0
+mode=1 cin=1 a=27 b=29 difference=30 v=0
+mode=1 cin=1 a=27 b=30 difference=29 v=0
+mode=1 cin=1 a=27 b=31 difference=28 v=0
+mode=1 cin=1 a=28 b= 0 difference=28 v=0
+mode=1 cin=1 a=28 b= 1 difference=27 v=0
+mode=1 cin=1 a=28 b= 2 difference=26 v=0
+mode=1 cin=1 a=28 b= 3 difference=25 v=0
+mode=1 cin=1 a=28 b= 4 difference=24 v=0
+mode=1 cin=1 a=28 b= 5 difference=23 v=0
+mode=1 cin=1 a=28 b= 6 difference=22 v=0
+mode=1 cin=1 a=28 b= 7 difference=21 v=0
+mode=1 cin=1 a=28 b= 8 difference=20 v=0
+mode=1 cin=1 a=28 b= 9 difference=19 v=0
+mode=1 cin=1 a=28 b=10 difference=18 v=0
+mode=1 cin=1 a=28 b=11 difference=17 v=0
+mode=1 cin=1 a=28 b=12 difference=16 v=0
+mode=1 cin=1 a=28 b=13 difference=15 v=1
+mode=1 cin=1 a=28 b=14 difference=14 v=1
+mode=1 cin=1 a=28 b=15 difference=13 v=1
+mode=1 cin=1 a=28 b=16 difference=12 v=0
+mode=1 cin=1 a=28 b=17 difference=11 v=0
+mode=1 cin=1 a=28 b=18 difference=10 v=0
+mode=1 cin=1 a=28 b=19 difference= 9 v=0
+mode=1 cin=1 a=28 b=20 difference= 8 v=0
+mode=1 cin=1 a=28 b=21 difference= 7 v=0
+mode=1 cin=1 a=28 b=22 difference= 6 v=0
+mode=1 cin=1 a=28 b=23 difference= 5 v=0
+mode=1 cin=1 a=28 b=24 difference= 4 v=0
+mode=1 cin=1 a=28 b=25 difference= 3 v=0
+mode=1 cin=1 a=28 b=26 difference= 2 v=0
+mode=1 cin=1 a=28 b=27 difference= 1 v=0
+mode=1 cin=1 a=28 b=28 difference= 0 v=0
+mode=1 cin=1 a=28 b=29 difference=31 v=0
+mode=1 cin=1 a=28 b=30 difference=30 v=0
+mode=1 cin=1 a=28 b=31 difference=29 v=0
+mode=1 cin=1 a=29 b= 0 difference=29 v=0
+mode=1 cin=1 a=29 b= 1 difference=28 v=0
+mode=1 cin=1 a=29 b= 2 difference=27 v=0
+mode=1 cin=1 a=29 b= 3 difference=26 v=0
+mode=1 cin=1 a=29 b= 4 difference=25 v=0
+mode=1 cin=1 a=29 b= 5 difference=24 v=0
+mode=1 cin=1 a=29 b= 6 difference=23 v=0
+mode=1 cin=1 a=29 b= 7 difference=22 v=0
+mode=1 cin=1 a=29 b= 8 difference=21 v=0
+mode=1 cin=1 a=29 b= 9 difference=20 v=0
+mode=1 cin=1 a=29 b=10 difference=19 v=0
+mode=1 cin=1 a=29 b=11 difference=18 v=0
+mode=1 cin=1 a=29 b=12 difference=17 v=0
+mode=1 cin=1 a=29 b=13 difference=16 v=0
+mode=1 cin=1 a=29 b=14 difference=15 v=1
+mode=1 cin=1 a=29 b=15 difference=14 v=1
+mode=1 cin=1 a=29 b=16 difference=13 v=0
+mode=1 cin=1 a=29 b=17 difference=12 v=0
+mode=1 cin=1 a=29 b=18 difference=11 v=0
+mode=1 cin=1 a=29 b=19 difference=10 v=0
+mode=1 cin=1 a=29 b=20 difference= 9 v=0
+mode=1 cin=1 a=29 b=21 difference= 8 v=0
+mode=1 cin=1 a=29 b=22 difference= 7 v=0
+mode=1 cin=1 a=29 b=23 difference= 6 v=0
+mode=1 cin=1 a=29 b=24 difference= 5 v=0
+mode=1 cin=1 a=29 b=25 difference= 4 v=0
+mode=1 cin=1 a=29 b=26 difference= 3 v=0
+mode=1 cin=1 a=29 b=27 difference= 2 v=0
+mode=1 cin=1 a=29 b=28 difference= 1 v=0
+mode=1 cin=1 a=29 b=29 difference= 0 v=0
+mode=1 cin=1 a=29 b=30 difference=31 v=0
+mode=1 cin=1 a=29 b=31 difference=30 v=0
+mode=1 cin=1 a=30 b= 0 difference=30 v=0
+mode=1 cin=1 a=30 b= 1 difference=29 v=0
+mode=1 cin=1 a=30 b= 2 difference=28 v=0
+mode=1 cin=1 a=30 b= 3 difference=27 v=0
+mode=1 cin=1 a=30 b= 4 difference=26 v=0
+mode=1 cin=1 a=30 b= 5 difference=25 v=0
+mode=1 cin=1 a=30 b= 6 difference=24 v=0
+mode=1 cin=1 a=30 b= 7 difference=23 v=0
+mode=1 cin=1 a=30 b= 8 difference=22 v=0
+mode=1 cin=1 a=30 b= 9 difference=21 v=0
+mode=1 cin=1 a=30 b=10 difference=20 v=0
+mode=1 cin=1 a=30 b=11 difference=19 v=0
+mode=1 cin=1 a=30 b=12 difference=18 v=0
+mode=1 cin=1 a=30 b=13 difference=17 v=0
+mode=1 cin=1 a=30 b=14 difference=16 v=0
+mode=1 cin=1 a=30 b=15 difference=15 v=1
+mode=1 cin=1 a=30 b=16 difference=14 v=0
+mode=1 cin=1 a=30 b=17 difference=13 v=0
+mode=1 cin=1 a=30 b=18 difference=12 v=0
+mode=1 cin=1 a=30 b=19 difference=11 v=0
+mode=1 cin=1 a=30 b=20 difference=10 v=0
+mode=1 cin=1 a=30 b=21 difference= 9 v=0
+mode=1 cin=1 a=30 b=22 difference= 8 v=0
+mode=1 cin=1 a=30 b=23 difference= 7 v=0
+mode=1 cin=1 a=30 b=24 difference= 6 v=0
+mode=1 cin=1 a=30 b=25 difference= 5 v=0
+mode=1 cin=1 a=30 b=26 difference= 4 v=0
+mode=1 cin=1 a=30 b=27 difference= 3 v=0
+mode=1 cin=1 a=30 b=28 difference= 2 v=0
+mode=1 cin=1 a=30 b=29 difference= 1 v=0
+mode=1 cin=1 a=30 b=30 difference= 0 v=0
+mode=1 cin=1 a=30 b=31 difference=31 v=0
+mode=1 cin=1 a=31 b= 0 difference=31 v=0
+mode=1 cin=1 a=31 b= 1 difference=30 v=0
+mode=1 cin=1 a=31 b= 2 difference=29 v=0
+mode=1 cin=1 a=31 b= 3 difference=28 v=0
+mode=1 cin=1 a=31 b= 4 difference=27 v=0
+mode=1 cin=1 a=31 b= 5 difference=26 v=0
+mode=1 cin=1 a=31 b= 6 difference=25 v=0
+mode=1 cin=1 a=31 b= 7 difference=24 v=0
+mode=1 cin=1 a=31 b= 8 difference=23 v=0
+mode=1 cin=1 a=31 b= 9 difference=22 v=0
+mode=1 cin=1 a=31 b=10 difference=21 v=0
+mode=1 cin=1 a=31 b=11 difference=20 v=0
+mode=1 cin=1 a=31 b=12 difference=19 v=0
+mode=1 cin=1 a=31 b=13 difference=18 v=0
+mode=1 cin=1 a=31 b=14 difference=17 v=0
+mode=1 cin=1 a=31 b=15 difference=16 v=0
+mode=1 cin=1 a=31 b=16 difference=15 v=0
+mode=1 cin=1 a=31 b=17 difference=14 v=0
+mode=1 cin=1 a=31 b=18 difference=13 v=0
+mode=1 cin=1 a=31 b=19 difference=12 v=0
+mode=1 cin=1 a=31 b=20 difference=11 v=0
+mode=1 cin=1 a=31 b=21 difference=10 v=0
+mode=1 cin=1 a=31 b=22 difference= 9 v=0
+mode=1 cin=1 a=31 b=23 difference= 8 v=0
+mode=1 cin=1 a=31 b=24 difference= 7 v=0
+mode=1 cin=1 a=31 b=25 difference= 6 v=0
+mode=1 cin=1 a=31 b=26 difference= 5 v=0
+mode=1 cin=1 a=31 b=27 difference= 4 v=0
+mode=1 cin=1 a=31 b=28 difference= 3 v=0
+mode=1 cin=1 a=31 b=29 difference= 2 v=0
+mode=1 cin=1 a=31 b=30 difference= 1 v=0
+mode=1 cin=1 a=31 b=31 difference= 0 v=0
